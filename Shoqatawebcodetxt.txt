@@ -1,0 +1,1005 @@
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.dibra.org/xmlrpc.php">
+
+<title>Shoqata Atdhetare Dibra &#8211; The Dibra Community Organization</title>
+<meta name="robots" content="max-image-preview:large"/>
+<link rel="dns-prefetch" href="//web.archive.org/web/20240404222356/https://stats.wp.com/"/>
+<link rel="dns-prefetch" href="//web.archive.org/web/20240404222356/https://fonts.googleapis.com/"/>
+<link rel="dns-prefetch" href="//web.archive.org/web/20240404222356/https://i0.wp.com/"/>
+<link rel="alternate" type="application/rss+xml" title="Shoqata Atdhetare Dibra » Feed" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Shoqata Atdhetare Dibra » Comments Feed" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/comments/feed/"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel="stylesheet" id="formidable-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/plugins/formidable/css/formidableforms.css?ver=328610" type="text/css" media="all"/>
+<link rel="stylesheet" id="sbi_styles-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.2.10" type="text/css" media="all"/>
+<link rel="stylesheet" id="jquery-swiper-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/themes/wild-ride/assets/css/swiper.min.css?ver=3.3.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="jquery-slider-pro-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/themes/wild-ride/assets/css/slider-pro.min.css?ver=1.2.4" type="text/css" media="all"/>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-includes/css/dist/block-library/style.min.css?ver=6.5" type="text/css" media="all"/>
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel="stylesheet" id="mediaelement-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17" type="text/css" media="all"/>
+<link rel="stylesheet" id="wp-mediaelement-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.5" type="text/css" media="all"/>
+<style id="jetpack-sharing-buttons-style-inline-css" type="text/css">
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.3" type="text/css" media="all"/>
+<link rel="stylesheet" id="tf-track-kickstarter-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/plugins/track-kickstarter-project/assets/css/track-kickstarter.css?ver=1.0.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="ngg_trigger_buttons-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/plugins/nextgen-gallery/static/GalleryDisplay/trigger_buttons.css?ver=3.59.1" type="text/css" media="all"/>
+<link rel="stylesheet" id="fancybox-0-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/plugins/nextgen-gallery/static/Lightbox/fancybox/jquery.fancybox-1.3.4.css?ver=3.59.1" type="text/css" media="all"/>
+<link rel="stylesheet" id="fontawesome_v4_shim_style-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/plugins/nextgen-gallery/static/FontAwesome/css/v4-shims.min.css?ver=6.5" type="text/css" media="all"/>
+<link rel="stylesheet" id="fontawesome-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/plugins/nextgen-gallery/static/FontAwesome/css/all.min.css?ver=6.5" type="text/css" media="all"/>
+<link rel="stylesheet" id="nextgen_pagination_style-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/plugins/nextgen-gallery/static/GalleryDisplay/pagination_style.css?ver=3.59.1" type="text/css" media="all"/>
+<link rel="stylesheet" id="nextgen_basic_thumbnails_style-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/plugins/nextgen-gallery/static/Thumbnails/nextgen_basic_thumbnails.css?ver=3.59.1" type="text/css" media="all"/>
+<link rel="stylesheet" id="give-styles-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/plugins/give/assets/dist/css/give.css?ver=3.6.1" type="text/css" media="all"/>
+<link rel="stylesheet" id="give-donation-summary-style-frontend-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/plugins/give/assets/dist/css/give-donation-summary.css?ver=3.6.1" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="//web.archive.org/web/20240404222356cs_/https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.5.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="material-icons-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/themes/wild-ride/assets/css/material-icons.css?ver=2.1.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="magnific-popup-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/themes/wild-ride/assets/css/magnific-popup.css?ver=1.0.1" type="text/css" media="all"/>
+<link rel="stylesheet" id="blank-style-css" href="https://web.archive.org/web/20240404222356cs_/https://www.dibra.org/wp-content/themes/wild-ride/style.css?ver=1.0.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="cherry-google-fonts-css" href="//web.archive.org/web/20240404222356cs_/https://fonts.googleapis.com/css?family=Montserrat%3A700%2C400&amp;subset=latin&amp;ver=6.5" type="text/css" media="all"/>
+<!--n2css--><script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="photocrati_ajax-js-extra">
+/* <![CDATA[ */
+var photocrati_ajax = {"url":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/index.php?photocrati_ajax=1","rest_url":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-json\/","wp_home_url":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org","wp_site_url":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org","wp_root_url":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org","wp_plugins_url":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-content\/plugins","wp_content_url":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-content","wp_includes_url":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-includes\/","ngg_param_slug":"nggallery"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/plugins/nextgen-gallery/static/Legacy/ajax.min.js?ver=3.59.1" id="photocrati_ajax-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/plugins/nextgen-gallery/static/FontAwesome/js/v4-shims.min.js?ver=5.3.1" id="fontawesome_v4_shim-js"></script>
+<script type="text/javascript" defer crossorigin="anonymous" data-auto-replace-svg="false" data-keep-original-source="false" data-search-pseudo-elements src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/plugins/nextgen-gallery/static/FontAwesome/js/all.min.js?ver=5.3.1" id="fontawesome-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/plugins/nextgen-gallery/static/Thumbnails/nextgen_basic_thumbnails.js?ver=3.59.1" id="nextgen_basic_thumbnails_script-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="give-js-extra">
+/* <![CDATA[ */
+var give_global_vars = {"ajaxurl":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-admin\/admin-ajax.php","checkout_nonce":"fd2a215b4a","currency":"USD","currency_sign":"$","currency_pos":"before","thousands_separator":",","decimal_separator":".","no_gateway":"Please select a payment method.","bad_minimum":"The minimum custom donation amount for this form is","bad_maximum":"The maximum custom donation amount for this form is","general_loading":"Loading...","purchase_loading":"Please Wait...","textForOverlayScreen":"<h3>Processing...<\/h3><p>This will only take a second!<\/p>","number_decimals":"0","is_test_mode":"1","give_version":"3.6.1","magnific_options":{"main_class":"give-modal","close_on_bg_click":false},"form_translation":{"payment-mode":"Please select payment mode.","give_first":"Please enter your first name.","give_last":"Please enter your last name.","give_email":"Please enter a valid email address.","give_user_login":"Invalid email address or username.","give_user_pass":"Enter a password.","give_user_pass_confirm":"Enter the password confirmation.","give_agree_to_terms":"You must agree to the terms and conditions."},"confirm_email_sent_message":"Please check your email and click on the link to access your complete donation history.","ajax_vars":{"ajaxurl":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-admin\/admin-ajax.php","ajaxNonce":"7369eb6657","loading":"Loading","select_option":"Please select an option","default_gateway":"manual","permalinks":"1","number_decimals":0},"cookie_hash":"52e441cd4581b8210471c4470ab76ed2","session_nonce_cookie_name":"wp-give_session_reset_nonce_52e441cd4581b8210471c4470ab76ed2","session_cookie_name":"wp-give_session_52e441cd4581b8210471c4470ab76ed2","delete_session_nonce_cookie":"0"};
+var giveApiSettings = {"root":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-json\/give-api\/v2\/","rest_base":"give-api\/v2"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/plugins/give/assets/dist/js/give.js?ver=45021738ab584c0b" id="give-js"></script>
+<link rel="https://api.w.org/" href="https://www.dibra.org/wp-json/"/><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dibra.org/xmlrpc.php?rsd"/>
+<meta name="generator" content="WordPress 6.5"/>
+<meta name="generator" content="Give v3.6.1"/>
+	<style>img#wpstats{display:none}</style>
+		<link rel="icon" href="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2016/04/cropped-index003.jpg?fit=32%2C32&amp;ssl=1" sizes="32x32"/>
+<link rel="icon" href="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2016/04/cropped-index003.jpg?fit=192%2C192&amp;ssl=1" sizes="192x192"/>
+<link rel="apple-touch-icon" href="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2016/04/cropped-index003.jpg?fit=180%2C180&amp;ssl=1"/>
+<meta name="msapplication-TileImage" content="https://i0.wp.com/www.dibra.org/wp-content/uploads/2016/04/cropped-index003.jpg?fit=270%2C270&amp;ssl=1"/>
+<style type="text/css">/* Typography */body {font-style: normal;font-weight: 400;font-size: 15px;line-height: 1.5;font-family: Georgia;letter-spacing: 0px;text-align: left;color: #0f0d0e;}h1 {font-style: normal;font-weight: 700;font-size: 24px;line-height: 1.1;font-family: Montserrat;letter-spacing: 0px;text-align: inherit;color: #303043;}h2 {font-style: normal;font-weight: 700;font-size: 20px;line-height: 1.1;font-family: Montserrat;letter-spacing: 0px;text-align: inherit;color: #303043;}h3 {font-style: normal;font-weight: 700;font-size: 18px;line-height: 1.2;font-family: Montserrat;letter-spacing: 0px;text-align: inherit;color: #303043;}h4 {font-style: normal;font-weight: 700;font-size: 16px;line-height: 1.3;font-family: Montserrat;letter-spacing: 0px;text-align: inherit;color: #303043;}h5 {font-style: normal;font-weight: 700;font-size: 18px;line-height: 1.4;font-family: Montserrat;letter-spacing: 0px;text-align: inherit;color: #303043;}h6 {font-style: normal;font-weight: 700;font-size: 13px;line-height: 1.4;font-family: Montserrat;letter-spacing: 0px;text-align: inherit;color: #303043;}@media (min-width: 992px) {h1 { font-size: 80px; }h2 { font-size: 60px; }h3 { font-size: 40px; }h4 { font-size: 30px; }h5 { font-size: 20px; }h6 { font-size: 16px; }}.breadcrumbs__items {font-style: normal;font-weight: 400;font-size: 14px;line-height: 1.5;font-family: Montserrat;letter-spacing: 0px;text-align: ;}a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.not-found .page-title { color: #298ffc; }a:hover { color: #2f2f42; }mark, ins {color: #ffffff;background-color: #298ffc;}::-webkit-input-placeholder { color: #0f0d0e; }::-moz-placeholder{ color: #0f0d0e; }:-moz-placeholder{ color: #0f0d0e; }:-ms-input-placeholder{ color: #0f0d0e; }.site-logo {font-style: normal;font-weight: 700;font-size: 20px;font-family: Georgia;}.site-logo__link,.site-logo__link:hover,.site-logo__link:active,.site-logo__link:visited {color: #303043;}/* Invert Color Scheme */.invert { color: #ffffff; }.invert h1 { color: #ffffff; }.invert h2 { color: #ffffff; }.invert h3 { color: #ffffff; }.invert h4 { color: #ffffff; }.invert h5 { color: #ffffff; }.invert h6 { color: #ffffff; }.invert a:hover { color: #303043; }/* Header */.header-container {background-color: #ffffff;background-image: url(/web/20240404222356im_/https://www.dibra.org/);background-repeat: repeat;background-position: center top;background-attachment: scroll;}.top-panel {background-color: #eef4fa;}.boxed-wrap {max-width: 1200px;margin: 0 auto;}/* Content */@media (min-width: 1200px) {.container {max-width: 1200px;}}.widget ul li {color: #298ffc;}/* invert color */.invert .widget ul li, .invert .widget ul li a {color: #ffffff;}.invert .widget ul li a:hover {color: #303043;}.invert .widget select{color: #303043;}/*--------------------------------------------------------------# Widget calendar--------------------------------------------------------------*/.widget_calendar .calendar_wrap caption{color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}.widget_calendar .calendar_wrap th{color: #298ffc;}.widget_calendar .calendar_wrap tr td a::before{background-color: #eef4fa;}/* invert color */.invert .widget_calendar .calendar_wrap caption{color: #ffffff;background: #303043;background: -webkit-linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);background: linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);}.invert .widget_calendar .calendar_wrap th{color: #303043;}.invert .widget_calendar .calendar_wrap a{color: #ffffff;}.invert .widget_calendar .calendar_wrap a:hover{color: #303043;}.invert .widget_calendar .calendar_wrap tr td a::before{background-color: ;}/*--------------------------------------------------------------# Widget Tag Cloud--------------------------------------------------------------*/.widget_tag_cloud .tagcloud a{color: #fff;}.widget_tag_cloud .tagcloud a:hover{color: #ffffff;border-color: #298ffc;background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}/* invert color */.invert .widget_tag_cloud .tagcloud a{color: #ffffff;}.invert .widget_tag_cloud .tagcloud a:hover{color: #ffffff;background: #303043;background: -webkit-linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);background: linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);}/*--------------------------------------------------------------# Widget Recent Posts--------------------------------------------------------------*/.widget_recent_entries ul li a, .widget_recent_comments ul li>a{color: #2f2f42;}.widget_recent_entries ul li a:hover, .widget_recent_comments ul li>a:hover{color: #298ffc;}.widget_recent_entries ul li .post-date::before{color: rgba(41,143,252,0.3);}/* invert color */.invert .widget_recent_entries ul li a, .invert .widget_recent_comments ul li>a{color: #303043;}.invert .widget_recent_entries ul li a:hover, .invert .widget_recent_comments ul li>a:hover{color: #ffffff;}.invert .widget_recent_entries ul li .post-date::before{color: rgba(41,143,252,0.3);}.widget-taxonomy-tiles__content::before{background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}.widget-taxonomy-tiles__inner:hover .widget-taxonomy-tiles__content::before {background: #303043;background: -webkit-linear-gradient(to right, #303043 0%, rgb(48,48,67) 100%);background: linear-gradient(to right, #303043 0%, rgb(48,48,67) 100%);}.widget-taxonomy-tiles__content a:hover{color: #298ffc;-webkit-transition: all 0.3s ease;transition: all 0.3s ease;}.widget-image-grid__content::before{background: #303043;}.widget-image-grid__content .widget-image-grid__link:hover {color: #eef4fa;}.widget-image-grid__content .widget-image-grid__link i{color: #eef4fa;}.widget-image-grid__content .widget-image-grid__title a:hover {color: #298ffc;}.swiper-pagination .swiper-pagination-bullet{background-color: #298ffc;}.swiper-button-next, .swiper-button-prev{color: #ffffff;background: #303043;}.swiper-container .swiper-button-next i, .swiper-container .swiper-button-prev i {color: #ffffff;}.swiper-button-next:hover{color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}.swiper-button-prev:hover{color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to left, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to left, #298ffc 0%, rgb(16,118,227) 100%);}.footer-area .swiper-wrapper .post .inner{background-color: #303043;}.wild_ride-smartslider .sp-arrows .sp-arrow{color: #ffffff;background: #303043;}.wild_ride-smartslider .sp-arrows .sp-next-arrow:hover{color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}.wild_ride-smartslider .sp-arrows .sp-previous-arrow:hover{color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to left, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to left, #298ffc 0%, rgb(16,118,227) 100%);}.sp-image-container {position: relative;}.sp-image-container:after {content: "";position: absolute;left: 0;top: 0;right: 0;bottom: 0;background: rgba(48,48,67,0.5);}.instagram__cover { background-color: #298ffc; }.invert .instagram__cover { background-color: #ffffff; }.invert .instagram__cover:before { color: #298ffc; }.widget_fbw_id .loader {border-top: 1.1em solid rgba(41,143,252,0.2);border-right: 1.1em solid rgba(41,143,252,0.2);border-bottom: 1.1em solid rgba(41,143,252,0.2);border-left: 1.1em solid #298ffc;}.subscribe-block__input { color: #0f0d0e; }.widget_tf_track_kickstarter .tf-tracker {background: rgba(48,48,67,0.76);color: #ffffff;}.tf-tracker h1,.tf-tracker h2,.tf-tracker h3,.tf-tracker h4,.tf-tracker h5,.tf-tracker h6 {color: #ffffff;}.tf-tracker-value {color: #298ffc;font-weight: 700;}.sidebar-primary .widget_give_forms_widget,.sidebar-secondary .widget_give_forms_widget,.before-content-area .widget_give_forms_widget,.after-content-area .widget_give_forms_widget,.before-loop-area .widget_give_forms_widget,.after-loop-area .widget_give_forms_widget {background-color: #298ffc;}.widget_give_forms_widget .widget-title {color: #ffffff;}.give-btn {background: #303043;color: #ffffff;}.give-btn:hover {background: rgb(10,10,29);color: #ffffff;}.top-panel__message .material-icons {color: #298ffc;}.top-panel__menu-list li a,.top-panel__menu-list li a:active,.top-panel__menu-list li a:visited {color: #298ffc;}.top-panel__menu-list li.current-menu-item a,.top-panel__menu-list li.current_page_item a,.top-panel__menu-list li a:hover {color: #0f0d0e;}.search-form .search-form__field {color: #0f0d0e;font-family: Georgia;}.search-form .search-form__field::-webkit-input-placeholder { color: #0f0d0e; }.search-form .search-form__field::-moz-placeholder { color: #0f0d0e; }.search-form .search-form__field:-moz-placeholder { color: #0f0d0e; }.search-form .search-form__field:-ms-input-placeholder { color: #0f0d0e; }.top-panel .search-form .search-form__submit {color: #303043;}.top-panel .search-form .search-form__submit:hover {color: #298ffc;}.social-list a,.social-list a:hover,.social-list a:active,.social-list a:visited,.share-btns__link,.share-btns__link:hover,.share-btns__link:active,.share-btns__link:visited {color: #298ffc;}.social-list a:hover::before,.share-btns__link:hover {background: #eef4fa;}.footer-area .social-list li > a:hover::before { background: #303043; }.social-list--footer li > a:hover { color: #ffffff; }.social-list--footer li > a:hover::before { background-color: rgba(255,255,255,0.1); }.main-navigation ul.menu > li > a,.main-navigation ul.menu > li > a:visited,.main-navigation ul.menu > li > a:active {color: #303043;}.menu-item_description {color: #0f0d0e;}.main-navigation ul.menu > li > a:before {background: #298ffc;}.main-navigation ul.menu > li:hover > a,.main-navigation ul.menu > li.menu-hover > a,.main-navigation ul.menu > li.current_page_item > a,.main-navigation ul.menu > li.current-menu-item > a,.main-navigation ul.menu > li.current_page_ancestor > a:hover {color: #298ffc;}.main-navigation ul ul a {color: #0f0d0e;}.main-navigation ul.sub-menu > li > a:hover,.main-navigation ul.sub-menu > li.menu-hover > a,.main-navigation ul.sub-menu > li.current_page_item > a,.main-navigation ul.sub-menu > li.current-menu-item > a,.main-navigation ul.sub-menu > li.current_page_ancestor > a:hover {color: #298ffc;}.main-navigation ul.sub-menu {background: #eef4fa;}/* Small menu. */.menu-toggle .material-icons {color: #298ffc;}.site-footer {background-color: #ffffff;}.footer-area-wrap {background-color: #298ffc;}.site-footer a:hover, .site-footer a:focus,.site-footer a:active { color: #0f0d0e; }.footer-menu__items li.current-menu-item a,.footer-menu__items li.current_page_item a {color: #0f0d0e;}.btn,.comment-form .submit,.wpcf7-submit,.post-password-form label + input {color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}.btn:hover,.comment-form .submit:hover,.wpcf7-submit:hover,.post-password-form label + input:hover {color: #ffffff;background: #303043;background: -webkit-linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);background: linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);}.btn:focus,.wpcf7-submit:focus,.comment-form .submit:focus {box-shadow: 0 0 8px #298ffc;}.btn.btn-secondary,.invert .btn {background: #303043;}.btn.btn-secondary:hover,.invert .btn:hover {background: rgb(10,10,29);color: #ffffff;}blockquote {color: #298ffc;}blockquote cite {color: #303043;}.single-format-quote blockquote {color: #ffffff;background-color: #303043;}.single-format-quote blockquote:before,.single-format-quote blockquote cite {color: #298ffc;}ul, ol {color: #303043;}code {color: #ffffff;background: #298ffc;}.post__cats a,.sticky__label {color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}.post__cats a:hover{color: #ffffff;background: #303043;background: -webkit-linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);background: linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);}.invert .post__cats a:hover{color: #298ffc;background: #ffffff;}.post .material-icons{color: rgba(41,143,252,0.3);}.post-author,.posted-by,.post-featured-content {color: #303043;}.post-featured-content.format-quote.invert {color: #ffffff;background-color: #303043;}.post__tags {color: #298ffc;}.post-author__holder {background-color: #298ffc;}.post-author__title a:hover {color:#303043;}.post-format-link {background: rgba(41,143,252,0.8);}.post-format-quote {color: #ffffff;}.post-format-quote:before,.post-format-quote cite,#cancel-comment-reply-link {color: #298ffc;}#cancel-comment-reply-link:hover {color: #303043;}.pagination a.page-numbers {color: #303043;}.pagination a.page-numbers:hover,.pagination span.page-numbers.current {color: #298ffc;background: #eef4fa;}.pagination .page-numbers.next,.pagination .page-numbers.prev {color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}.pagination .page-numbers.next:hover,.pagination .page-numbers.prev:hover {color: #ffffff;background: #303043;background: -webkit-linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);background: linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);}#toTop {color: #ffffff;background: #fff;}#toTop:before {color: #298ffc;}#toTop span{color: #303043;}#toTop:hover {background: #303043;}#toTop:hover span{color: #ffffff;}.tm-folding-cube .tm-cube:before {background-color: #298ffc;}</style></head>
+
+<body class="home blog do-etfw give-test-mode give-page hfeed layout-fullwidth blog-default position-one-right-sidebar sidebar-1-4"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20240404222356/https%3A//www.dibra.org/"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="/_static/images/toolbar/wayback-toolbar-logo-100.png, /_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, /_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.dibra.org/" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20240404222356" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;">
+                    <a class="t" href="/web/20240404222356*/https://www.dibra.org/" title="See a list of every capture for this URL">103 captures</a>
+          <div class="r" title="Timespan for captures of this URL">26 Jul 2002 - 04 Apr 2024</div>
+          </div>
+        <div class="k">
+          <a href="" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="725" height="27" border="0"></canvas>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20240216185427/https://www.dibra.org/" title="16 Feb 2024"><strong>Feb</strong></a></td>
+            <td class="c" id="displayMonthEl" title="You are here: 22:23:56 Apr 04, 2024">APR</td>
+            <td class="f" nowrap="nowrap">May</td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20240331143730/http://dibra.org/" title="14:37:30 Mar 31, 2024"><img src="/_static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 22:23:56 Apr 04, 2024">04</td>
+            <td class="f" nowrap="nowrap"><img src="/_static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20220123220353/http://www.dibra.org/" title="23 Jan 2022"><strong>2022</strong></a></td>
+            <td class="c" id="displayYearEl" title="You are here: 22:23:56 Apr 04, 2024">2024</td>
+            <td class="f" nowrap="nowrap">2025</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#" title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        </span>
+                <a class="xxs" href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20240404222356/http://web.archive.org/screenshot/https://www.dibra.org/"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20240404222356/https://www.dibra.org/" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20240404222356/https://www.dibra.org/" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="#expand"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam_urls)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archiveteam_urls" target="_new"><span class="wm-title">Archive Team: URLs</span></a></div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20240404222356/https://www.dibra.org/</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(725,27,25,2,"web","https://www.dibra.org/","20240404222356",1996,"/_static/",["/_static/css/banner-styles.css?v=S1zqJCYt","/_static/css/iconochive.css?v=3PDvdIFv"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+<div class="page-preloader-cover"><div class="tm-folding-cube">
+        <div class="tm-cube1 tm-cube"></div>
+        <div class="tm-cube2 tm-cube"></div>
+        <div class="tm-cube4 tm-cube"></div>
+        <div class="tm-cube3 tm-cube"></div>
+      </div></div><div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	<header id="masthead" class="site-header minimal" role="banner">
+		<div class="top-panel">
+			<div class="top-panel__wrap"><div class="top-panel__message"><div class="info-block"><i class="material-icons">place</i> 1880 Hylan Blvd, Suite 2R-5 Staten Island, NY 10305 </div><div class="info-block"> <i class="material-icons indent-left">call</i> Tel: 718-619-8474</div></div><div class="top-panel__search"><form role="search" method="get" class="search-form" action="https://web.archive.org/web/20240404222356/https://www.dibra.org/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-form__field" placeholder="Search …" value="" name="s" title="Search for:"/>
+	</label>
+	<button type="submit" class="search-form__submit btn"><i class="material-icons">search</i></button>
+</form></div><div class="top-panel__menu"><ul id="menu-top" class="top-panel__menu-list"><li id="menu-item-136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136"><a href="https://web.archive.org/web/20240404222356/http://dibraorg9.wix.com/shad1">English Version</a></li>
+<li id="menu-item-510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-510"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/anetaresim-donacion/">Anëtarësim/Donacion</a></li>
+<li id="menu-item-511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/regjistrimiregistration/">Regjistrimi/Registration</a></li>
+<li id="menu-item-566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-566"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/keshilli/">Keshilli</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/kontakt/">Kontakt</a></li>
+</ul></div></div>
+		</div><!-- .top-panel -->
+
+		<div class="header-container">
+			<div class="header-container_wrap">
+				<div class="header-container__flex">
+	<div class="social-list social-list--header"><ul id="social-list-1" class="social-list__items inline-list"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136"><a href="https://web.archive.org/web/20240404222356/http://dibraorg9.wix.com/shad1"><span class="screen-reader-text">English Version</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-510"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/anetaresim-donacion/"><span class="screen-reader-text">Anëtarësim/Donacion</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/regjistrimiregistration/"><span class="screen-reader-text">Regjistrimi/Registration</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-566"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/keshilli/"><span class="screen-reader-text">Keshilli</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/kontakt/"><span class="screen-reader-text">Kontakt</span></a></li>
+</ul></div>	<div class="site-branding">
+		<h1 class="site-logo"><a class="site-logo__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/" rel="home">Shoqata Atdhetare Dibra</a></h1>			</div>
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+		<button class="menu-toggle" aria-controls="main-menu" aria-expanded="false"><i class="material-icons">menu</i></button>
+		<ul id="main-menu" class="menu"><li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/regjistrimiregistration/">Regjistrimi/Registration</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/anetaresim-donacion/">Anëtarësim/Donacion</a></li>
+<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-42"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/lidhje/">Lidhje/Links</a></li>
+<li id="menu-item-527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/dokumentacion/">Dokumentacion</a></li>
+</ul>	</nav><!-- #site-navigation -->
+	</div>
+			</div>
+		</div><!-- .header-container -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<section id="full-width-header-area" class="full-width-header-area widget-area"><aside id="widget_smart_slider-2" class="widget cherry widget_smart_slider"><div class="wild_ride-smartslider" data-id="slider-pro-660f2880ec484" data-width="100%" data-height="800" data-orientation="horizontal" data-slide-distance="10" data-slide-duration="500" data-slide-fade="false" data-navigation="true" data-fade-navigation="true" data-pagination="true" data-autoplay="true" data-fullscreen="false" data-shuffle="false" data-loop="true" data-thumbnails="false" data-thumbnails-arrows="true" data-thumbnails-position="bottom" data-thumbnails-width="240" data-thumbnails-height="100"><div id="slider-pro-660f2880ec484" class="wild_ride-smartslider__instance slider-pro"><div class="wild_ride-smartslider__slides sp-slides"><div class="sp-slide"><img class="sp-image" src="/web/20240404222356im_/https://www.dibra.org/" data-src="https://web.archive.org/web/20240404222356/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/05/Picnic-2021.png?fit=1545%2C2000&amp;ssl=1" alt=""><h2 class="sp-title sp-layer" data-width="90%" data-horizontal="5%" data-vertical="38%" data-show-transition="left" data-show-duration="500" data-show-delay="500" data-hide-transition="left" data-hide-duration="500" data-hide-delay="700"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/pikniku-dibran-2021/">Pikniku Dibran 2021</a></h2><div class="sp-more sp-layer" data-width="90%" data-horizontal="5%" data-vertical="57%" data-show-transition="left" data-show-duration="500" data-show-delay="1100" data-hide-transition="left" data-hide-duration="500" data-hide-delay="100"><a class="btn" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/pikniku-dibran-2021/">Lexo...</a></div></div><div class="sp-slide"><img class="sp-image" src="/web/20240404222356im_/https://www.dibra.org/" data-src="https://web.archive.org/web/20240404222356/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/175669845_3882663728484246_8438343120588468339_n.jpg?fit=2048%2C1365&amp;ssl=1" alt=""><h2 class="sp-title sp-layer" data-width="90%" data-horizontal="5%" data-vertical="38%" data-show-transition="left" data-show-duration="500" data-show-delay="500" data-hide-transition="left" data-hide-duration="500" data-hide-delay="700"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/takimi-me-kryetarin-te-dibres/">Takimi me Kryetarin të Dibrës</a></h2><div class="sp-more sp-layer" data-width="90%" data-horizontal="5%" data-vertical="57%" data-show-transition="left" data-show-duration="500" data-show-delay="1100" data-hide-transition="left" data-hide-duration="500" data-hide-delay="100"><a class="btn" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/takimi-me-kryetarin-te-dibres/">Lexo...</a></div></div><div class="sp-slide"><img class="sp-image" src="/web/20240404222356im_/https://www.dibra.org/" data-src="https://web.archive.org/web/20240404222356/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/173368684_3863391220411497_6968989192369773069_n.jpg?fit=988%2C1280&amp;ssl=1" alt=""><h2 class="sp-title sp-layer" data-width="90%" data-horizontal="5%" data-vertical="38%" data-show-transition="left" data-show-duration="500" data-show-delay="500" data-hide-transition="left" data-hide-duration="500" data-hide-delay="700"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/">Të ndihmojmë familjet në nevojë për muajin e shejntë të Ramazanit!</a></h2><div class="sp-more sp-layer" data-width="90%" data-horizontal="5%" data-vertical="57%" data-show-transition="left" data-show-duration="500" data-show-delay="1100" data-hide-transition="left" data-hide-duration="500" data-hide-delay="100"><a class="btn" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/">Lexo...</a></div></div></div></div></div></aside><aside id="widget_carousel-8" class="widget wild_ride widget_carousel"><div class="swiper-carousel-container"><div id="swiper-carousel-660f2880ef9f9" class="wild_ride-carousel swiper-container" data-uniq-id="swiper-carousel-660f2880ef9f9" data-slides-per-view="4" data-slides-per-group="1" data-slides-per-column="1" data-space-between-slides="31" data-duration-speed="500" data-swiper-loop="false" data-free-mode="false" data-grab-cursor="true" data-mouse-wheel="false"><div class="swiper-wrapper"><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+			<a class="post-thumbnail__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/takimi-me-kryetarin-te-dibres/"><img class="swiper-image" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/175669845_3882663728484246_8438343120588468339_n.jpg?resize=560%2C350&amp;ssl=1" alt=""></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/">Lajme nga Dibra</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/">Lajme nga Shoqata</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/">Lajmërime - Front Cover</a></div>
+		</header>
+		<div class="entry-content">
+			<div class="post__author vcard"><span>Posted by </span><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/" rel="author">Admin</a></div>
+			<h5><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/takimi-me-kryetarin-te-dibres/">Takimi me Kryetarin të Dibrës</a></h5>								</div>
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__date"><i class="material-icons">event</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/takimi-me-kryetarin-te-dibres/"><time class="post-date" datetime="2021-04-20T13:35:17+00:00">Apr 20, 2021</time></a></span>
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+			<a class="post-thumbnail__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/"><img class="swiper-image" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/173368684_3863391220411497_6968989192369773069_n.jpg?resize=560%2C350&amp;ssl=1" alt=""></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/">Lajme nga Dibra</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/">Lajme nga Shoqata</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/">Lajmërime - Front Cover</a></div>
+		</header>
+		<div class="entry-content">
+			<div class="post__author vcard"><span>Posted by </span><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/" rel="author">Admin</a></div>
+			<h5><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/">Të ndihmojmë familjet në nevojë për muajin e shejntë të Ramazanit!</a></h5>								</div>
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__date"><i class="material-icons">event</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/"><time class="post-date" datetime="2021-04-13T18:17:25+00:00">Apr 13, 2021</time></a></span>
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+			<a class="post-thumbnail__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/regjistrimi-2021/"><img class="swiper-image" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/170281567_3848060708611215_8433551747610037289_n.jpg?resize=560%2C350&amp;ssl=1" alt=""></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/">Lajme nga Dibra</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/">Lajme nga Shoqata</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/">Lajmërime - Front Cover</a></div>
+		</header>
+		<div class="entry-content">
+			<div class="post__author vcard"><span>Posted by </span><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/" rel="author">Admin</a></div>
+			<h5><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/regjistrimi-2021/">Regjistrimi 2021</a></h5>								</div>
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__date"><i class="material-icons">event</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/regjistrimi-2021/"><time class="post-date" datetime="2021-04-13T18:15:32+00:00">Apr 13, 2021</time></a></span>
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+			<a class="post-thumbnail__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/100-kubik-dru-per-ata-ne-nevoj/"><img class="swiper-image" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/145846991_3671084076308880_89918684916370328_n.jpg?resize=560%2C350&amp;ssl=1" alt=""></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/">Lajme nga Dibra</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/">Lajme nga Shoqata</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/">Lajmërime - Front Cover</a></div>
+		</header>
+		<div class="entry-content">
+			<div class="post__author vcard"><span>Posted by </span><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/" rel="author">Admin</a></div>
+			<h5><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/100-kubik-dru-per-ata-ne-nevoj/">100 Kubik dru për ata në nevoj</a></h5>								</div>
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__date"><i class="material-icons">event</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/100-kubik-dru-per-ata-ne-nevoj/"><time class="post-date" datetime="2021-04-13T18:12:08+00:00">Apr 13, 2021</time></a></span>
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+			<a class="post-thumbnail__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/tableta-per-mesimin-ne-distance/"><img class="swiper-image" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/2_131984186_2941929476049009_2802048501365159619_n.jpg?resize=560%2C350&amp;ssl=1" alt=""></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/">Lajme nga Dibra</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/">Lajme nga Shoqata</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/">Lajmërime - Front Cover</a></div>
+		</header>
+		<div class="entry-content">
+			<div class="post__author vcard"><span>Posted by </span><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/" rel="author">Admin</a></div>
+			<h5><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/tableta-per-mesimin-ne-distance/">Tableta për mësimin në distancë</a></h5>								</div>
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__date"><i class="material-icons">event</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/tableta-per-mesimin-ne-distance/"><time class="post-date" datetime="2021-04-13T18:07:00+00:00">Apr 13, 2021</time></a></span>
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+			<a class="post-thumbnail__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/ekipi-i-shpetimtareve-vere-2020/"><img class="swiper-image" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/118401298_3220832241334068_3444146204089101996_n.jpg?resize=560%2C350&amp;ssl=1" alt=""></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/">Lajme nga Dibra</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/">Lajme nga Shoqata</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/">Lajmërime - Front Cover</a></div>
+		</header>
+		<div class="entry-content">
+			<div class="post__author vcard"><span>Posted by </span><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/" rel="author">Admin</a></div>
+			<h5><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/ekipi-i-shpetimtareve-vere-2020/">Ekipi i Shpëtimtarëve &#8211; Verë 2020</a></h5>								</div>
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__date"><i class="material-icons">event</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/ekipi-i-shpetimtareve-vere-2020/"><time class="post-date" datetime="2021-04-13T18:03:24+00:00">Apr 13, 2021</time></a></span>
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+			<a class="post-thumbnail__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/lifeguard-2020/"><img class="swiper-image" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/105985908_3070383583045602_6845222990981270522_n.jpg?resize=560%2C350&amp;ssl=1" alt=""></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/">Lajme nga Dibra</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/">Lajme nga Shoqata</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/">Lajmërime - Front Cover</a></div>
+		</header>
+		<div class="entry-content">
+			<div class="post__author vcard"><span>Posted by </span><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/" rel="author">Admin</a></div>
+			<h5><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/lifeguard-2020/">Lifeguard 2020</a></h5>								</div>
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__date"><i class="material-icons">event</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/lifeguard-2020/"><time class="post-date" datetime="2021-04-13T17:30:05+00:00">Apr 13, 2021</time></a></span>
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+			<a class="post-thumbnail__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/vazhdon-ndihma-per-dibren/"><img class="swiper-image" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/98359767_2954895864594375_6896236542587568128_n.jpg?resize=560%2C350&amp;ssl=1" alt=""></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/">Lajme nga Dibra</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/">Lajme nga Shoqata</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/">Lajmërime - Front Cover</a></div>
+		</header>
+		<div class="entry-content">
+			<div class="post__author vcard"><span>Posted by </span><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/" rel="author">Admin</a></div>
+			<h5><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/vazhdon-ndihma-per-dibren/">Vazhdon ndihma për Dibrën!</a></h5>								</div>
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__date"><i class="material-icons">event</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/vazhdon-ndihma-per-dibren/"><time class="post-date" datetime="2021-04-13T17:28:03+00:00">Apr 13, 2021</time></a></span>
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+			<a class="post-thumbnail__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/covid-ndihma-e-pare-nga-shoqata-atdhetare-dibra/"><img class="swiper-image" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/84391835_2811663392250957_2884231643487272960_n.jpg?resize=560%2C350&amp;ssl=1" alt=""></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/">Lajme nga Dibra</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/">Lajme nga Shoqata</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/">Lajmërime - Front Cover</a></div>
+		</header>
+		<div class="entry-content">
+			<div class="post__author vcard"><span>Posted by </span><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/" rel="author">Admin</a></div>
+			<h5><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/covid-ndihma-e-pare-nga-shoqata-atdhetare-dibra/">COVID  Ndihma e parë nga Shoqata Atdhetare Dibra</a></h5>								</div>
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__date"><i class="material-icons">event</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/covid-ndihma-e-pare-nga-shoqata-atdhetare-dibra/"><time class="post-date" datetime="2021-04-13T17:22:36+00:00">Apr 13, 2021</time></a></span>
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+			<a class="post-thumbnail__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/dibra-sot-ka-nevoj-me-shume-se-kurre-per-ne/"><img class="sp-image " src="https://web.archive.org/web/20240404222356im_/http://fakeimg.pl/560x350/000/fff/?text=DIBRA SOT KA NEVOJ MË SHUMË SE KURRË PËR NE!" alt="DIBRA SOT KA NEVOJ MË SHUMË SE KURRË PËR NE!"></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/">Lajme nga Dibra</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/">Lajme nga Shoqata</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/">Lajmërime - Front Cover</a></div>
+		</header>
+		<div class="entry-content">
+			<div class="post__author vcard"><span>Posted by </span><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/" rel="author">Admin</a></div>
+			<h5><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/dibra-sot-ka-nevoj-me-shume-se-kurre-per-ne/">DIBRA SOT KA NEVOJ MË SHUMË SE KURRË PËR NE!</a></h5>								</div>
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__date"><i class="material-icons">event</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/dibra-sot-ka-nevoj-me-shume-se-kurre-per-ne/"><time class="post-date" datetime="2021-04-13T17:18:15+00:00">Apr 13, 2021</time></a></span>
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+			<a class="post-thumbnail__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/takim-me-dr-ziber-lata/"><img class="swiper-image" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/88180749_2786454408105189_7362475978670473216_n.jpg?resize=560%2C350&amp;ssl=1" alt=""></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/">Lajme nga Dibra</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/">Lajme nga Shoqata</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/">Lajmërime - Front Cover</a></div>
+		</header>
+		<div class="entry-content">
+			<div class="post__author vcard"><span>Posted by </span><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/" rel="author">Admin</a></div>
+			<h5><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/takim-me-dr-ziber-lata/">Takim me Dr. Ziber Lata</a></h5>								</div>
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__date"><i class="material-icons">event</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/takim-me-dr-ziber-lata/"><time class="post-date" datetime="2021-04-13T17:15:48+00:00">Apr 13, 2021</time></a></span>
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+			<a class="post-thumbnail__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/turne-ne-shah-2020/"><img class="swiper-image" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/Shah.jpg?resize=514%2C350&amp;ssl=1" alt=""></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/">Lajme nga Shoqata</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/">Lajmërime - Front Cover</a><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/sport/">Sport</a></div>
+		</header>
+		<div class="entry-content">
+			<div class="post__author vcard"><span>Posted by </span><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/" rel="author">Admin</a></div>
+			<h5><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/turne-ne-shah-2020/">Turne në SHAH 2020</a></h5>								</div>
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__date"><i class="material-icons">event</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/turne-ne-shah-2020/"><time class="post-date" datetime="2021-04-13T15:52:29+00:00">Apr 13, 2021</time></a></span>
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article></div><div id="swiper-carousel-660f2880ef9f9-pagination" class="swiper-pagination"></div></div><div id="swiper-carousel-660f2880ef9f9-next" class="swiper-button-next button-next"><i class="material-icons">navigate_next</i></div><div id="swiper-carousel-660f2880ef9f9-prev" class="swiper-button-prev button-prev"><i class="material-icons">navigate_before</i></div></div></aside></section>
+	
+	<div class="container">
+
+		
+		<div class="row">
+
+			<div id="primary" class="col-xs-12 col-md-9">
+
+				
+				<main id="main" class="site-main" role="main">
+
+					
+	<div class="posts-list posts-list--default one-right-sidebar">
+
+	<article id="post-3121" class="posts-list__item card hentry post-3121 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+			<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/pikniku-dibran-2021/" class="post-thumbnail__link post-thumbnail--small"><img width="370" height="230" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/05/Picnic-2021.png?resize=370%2C230&amp;ssl=1" class="post-thumbnail__img wp-post-image" alt="" decoding="async" srcset="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/05/Picnic-2021.png?resize=370%2C230&amp;ssl=1 370w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/05/Picnic-2021.png?resize=560%2C350&amp;ssl=1 560w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/05/Picnic-2021.png?resize=770%2C480&amp;ssl=1 770w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/05/Picnic-2021.png?zoom=3&amp;resize=370%2C230 1110w" sizes="(max-width: 370px) 100vw, 370px"/></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/" rel="category tag">Lajme nga Shoqata</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/" rel="category tag">Lajmërime - Front Cover</a></div>					</figure><!-- .post-thumbnail -->
+
+		<header class="entry-header">
+			<span class="post-author">Posted by <a class="post-author__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/">Admin</a></span>			<h2 class="entry-title"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/pikniku-dibran-2021/" rel="bookmark">Pikniku Dibran 2021</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			Shoqata Atdhetare Dibra ju informon se kete vit Pikniku Dibran do te mbahet me 30 Maj 2021 e Diel (Memorial Weekend). Pasi qe jemi ende ne kohe pandemie numbri do te jete i kufizuar dhe lusim te gjithe te pranishmit te respektojne masat ANTI-Covid. –&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+				<span class="post__date"><i class="material-icons">event</i><a class="post-date__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/pikniku-dibran-2021/"><time class="post-date__time" datetime="2021-05-10T18:42:30+00:00">May 10, 2021</time></a></span><span class="post__comments"><i class="material-icons">mode_comment</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/pikniku-dibran-2021/#respond" class="post-comments__link">0</a></span>			</div><!-- .entry-meta -->
+
+		
+	</div>
+	<footer class="entry-footer">
+		<div class="share-btns__list "><div class="share-btns__item facebook-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.facebook.com/sharer/sharer.php?u=https://www.dibra.org/pikniku-dibran-2021/&amp;t=Pikniku Dibran 2021" rel="nofollow" target="_blank" rel="nofollow" title="Share on Facebook"><i class="fa fa-facebook"></i><span class="share-btns__label screen-reader-text">Facebook</span></a></div><div class="share-btns__item twitter-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://twitter.com/intent/tweet?url=https://www.dibra.org/pikniku-dibran-2021/&amp;text=Pikniku Dibran 2021" rel="nofollow" target="_blank" rel="nofollow" title="Share on Twitter"><i class="fa fa-twitter"></i><span class="share-btns__label screen-reader-text">Twitter</span></a></div><div class="share-btns__item google-plus-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://plus.google.com/share?url=https://www.dibra.org/pikniku-dibran-2021/" rel="nofollow" target="_blank" rel="nofollow" title="Share on Google+"><i class="fa fa-google-plus"></i><span class="share-btns__label screen-reader-text">Google+</span></a></div><div class="share-btns__item linkedin-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.dibra.org/pikniku-dibran-2021/&amp;title=Pikniku Dibran 2021&amp;summary=Shoqata Atdhetare Dibra ju informon se kete vit Pikniku Dibran do te mbahet me 30 Maj 2021 e Diel (Memorial Weekend). Pasi qe jemi ende ne kohe pandemie numbri do te jete i kufizuar dhe lusim te gjithe te pranishmit te respektojne masat ANTI-Covid. – Ku dhe kur do te mbahet pikniku Dibran? Pikniku Dibran [&amp;hellip;]&amp;source=https://www.dibra.org/pikniku-dibran-2021/" rel="nofollow" target="_blank" rel="nofollow" title="Share on LinkedIn"><i class="fa fa-linkedin"></i><span class="share-btns__label screen-reader-text">LinkedIn</span></a></div><div class="share-btns__item pinterest-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.pinterest.com/pin/create/button/?url=https://www.dibra.org/pikniku-dibran-2021/&amp;description=Pikniku Dibran 2021&amp;media=https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/05/Picnic-2021.png?fit=1545%2C2000&amp;#038;ssl=1" rel="nofollow" target="_blank" rel="nofollow" title="Share on Pinterest"><i class="fa fa-pinterest"></i><span class="share-btns__label screen-reader-text">Pinterest</span></a></div></div>		<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/pikniku-dibran-2021/" class="btn"><span class="btn__text">Lexo...</span><span class="btn__icon"></span></a>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+<article id="post-3103" class="posts-list__item card hentry post-3103 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+			<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/takimi-me-kryetarin-te-dibres/" class="post-thumbnail__link post-thumbnail--small"><img width="370" height="230" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/175669845_3882663728484246_8438343120588468339_n.jpg?resize=370%2C230&amp;ssl=1" class="post-thumbnail__img wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/175669845_3882663728484246_8438343120588468339_n.jpg?resize=370%2C230&amp;ssl=1 370w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/175669845_3882663728484246_8438343120588468339_n.jpg?resize=560%2C350&amp;ssl=1 560w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/175669845_3882663728484246_8438343120588468339_n.jpg?resize=770%2C480&amp;ssl=1 770w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/175669845_3882663728484246_8438343120588468339_n.jpg?zoom=3&amp;resize=370%2C230 1110w" sizes="(max-width: 370px) 100vw, 370px"/></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/" rel="category tag">Lajme nga Dibra</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/" rel="category tag">Lajme nga Shoqata</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/" rel="category tag">Lajmërime - Front Cover</a></div>					</figure><!-- .post-thumbnail -->
+
+		<header class="entry-header">
+			<span class="post-author">Posted by <a class="post-author__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/">Admin</a></span>			<h2 class="entry-title"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/takimi-me-kryetarin-te-dibres/" rel="bookmark">Takimi me Kryetarin të Dibrës</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			U mbajt takimi i Kryetarit të Dibrës me komunitetin dibran në AmerikDje, e diel 18 Prill, në ambientet e hotel Hilton në Staten Island, Kryetari i Dibrës, dr. Hekuran Duka shpalosi punën e tij për dy vitet e fundit që kur ka marrë postin e&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+				<span class="post__date"><i class="material-icons">event</i><a class="post-date__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/takimi-me-kryetarin-te-dibres/"><time class="post-date__time" datetime="2021-04-20T13:35:17+00:00">April 20, 2021</time></a></span><span class="post__comments"><i class="material-icons">mode_comment</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/takimi-me-kryetarin-te-dibres/#respond" class="post-comments__link">0</a></span>			</div><!-- .entry-meta -->
+
+		
+	</div>
+	<footer class="entry-footer">
+		<div class="share-btns__list "><div class="share-btns__item facebook-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.facebook.com/sharer/sharer.php?u=https://www.dibra.org/takimi-me-kryetarin-te-dibres/&amp;t=Takimi me Kryetarin të Dibrës" rel="nofollow" target="_blank" rel="nofollow" title="Share on Facebook"><i class="fa fa-facebook"></i><span class="share-btns__label screen-reader-text">Facebook</span></a></div><div class="share-btns__item twitter-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://twitter.com/intent/tweet?url=https://www.dibra.org/takimi-me-kryetarin-te-dibres/&amp;text=Takimi me Kryetarin të Dibrës" rel="nofollow" target="_blank" rel="nofollow" title="Share on Twitter"><i class="fa fa-twitter"></i><span class="share-btns__label screen-reader-text">Twitter</span></a></div><div class="share-btns__item google-plus-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://plus.google.com/share?url=https://www.dibra.org/takimi-me-kryetarin-te-dibres/" rel="nofollow" target="_blank" rel="nofollow" title="Share on Google+"><i class="fa fa-google-plus"></i><span class="share-btns__label screen-reader-text">Google+</span></a></div><div class="share-btns__item linkedin-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.dibra.org/takimi-me-kryetarin-te-dibres/&amp;title=Takimi me Kryetarin të Dibrës&amp;summary=U mbajt takimi i Kryetarit të Dibrës me komunitetin dibran në AmerikDje, e diel 18 Prill, në ambientet e hotel Hilton në Staten Island, Kryetari i Dibrës, dr. Hekuran Duka shpalosi punën e tij për dy vitet e fundit që kur ka marrë postin e kryetarit. Ky takim u realizua nën kujdesjen e Shoqatës Atdhetare [&amp;hellip;]&amp;source=https://www.dibra.org/takimi-me-kryetarin-te-dibres/" rel="nofollow" target="_blank" rel="nofollow" title="Share on LinkedIn"><i class="fa fa-linkedin"></i><span class="share-btns__label screen-reader-text">LinkedIn</span></a></div><div class="share-btns__item pinterest-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.pinterest.com/pin/create/button/?url=https://www.dibra.org/takimi-me-kryetarin-te-dibres/&amp;description=Takimi me Kryetarin të Dibrës&amp;media=https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/175669845_3882663728484246_8438343120588468339_n.jpg?fit=2048%2C1365&amp;#038;ssl=1" rel="nofollow" target="_blank" rel="nofollow" title="Share on Pinterest"><i class="fa fa-pinterest"></i><span class="share-btns__label screen-reader-text">Pinterest</span></a></div></div>		<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/takimi-me-kryetarin-te-dibres/" class="btn"><span class="btn__text">Lexo...</span><span class="btn__icon"></span></a>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+<article id="post-3100" class="posts-list__item card hentry post-3100 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+			<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/" class="post-thumbnail__link post-thumbnail--small"><img width="370" height="230" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/173368684_3863391220411497_6968989192369773069_n.jpg?resize=370%2C230&amp;ssl=1" class="post-thumbnail__img wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/173368684_3863391220411497_6968989192369773069_n.jpg?resize=370%2C230&amp;ssl=1 370w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/173368684_3863391220411497_6968989192369773069_n.jpg?resize=560%2C350&amp;ssl=1 560w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/173368684_3863391220411497_6968989192369773069_n.jpg?resize=770%2C480&amp;ssl=1 770w" sizes="(max-width: 370px) 100vw, 370px"/></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/" rel="category tag">Lajme nga Dibra</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/" rel="category tag">Lajme nga Shoqata</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/" rel="category tag">Lajmërime - Front Cover</a></div>					</figure><!-- .post-thumbnail -->
+
+		<header class="entry-header">
+			<span class="post-author">Posted by <a class="post-author__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/">Admin</a></span>			<h2 class="entry-title"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/" rel="bookmark">Të ndihmojmë familjet në nevojë për muajin e shejntë të Ramazanit!</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			Duke ju uruar për shumë vite muajin e shejntë të Ramazanit, Shoqata Atdhetare Dibra ju njofton se tradita për të ndihmuar familjet në nevoje për këtë muaj të bekuar vazhdon, dhe ky aksion humanitar do të fillojë prej nesër (e Martë, 13 Prill, 2021). Nuk&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+				<span class="post__date"><i class="material-icons">event</i><a class="post-date__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/"><time class="post-date__time" datetime="2021-04-13T18:17:25+00:00">April 13, 2021</time></a></span><span class="post__comments"><i class="material-icons">mode_comment</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/#respond" class="post-comments__link">0</a></span>			</div><!-- .entry-meta -->
+
+		
+	</div>
+	<footer class="entry-footer">
+		<div class="share-btns__list "><div class="share-btns__item facebook-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.facebook.com/sharer/sharer.php?u=https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/&amp;t=Të ndihmojmë familjet në nevojë për muajin e shejntë të Ramazanit!" rel="nofollow" target="_blank" rel="nofollow" title="Share on Facebook"><i class="fa fa-facebook"></i><span class="share-btns__label screen-reader-text">Facebook</span></a></div><div class="share-btns__item twitter-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://twitter.com/intent/tweet?url=https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/&amp;text=Të ndihmojmë familjet në nevojë për muajin e shejntë të Ramazanit!" rel="nofollow" target="_blank" rel="nofollow" title="Share on Twitter"><i class="fa fa-twitter"></i><span class="share-btns__label screen-reader-text">Twitter</span></a></div><div class="share-btns__item google-plus-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://plus.google.com/share?url=https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/" rel="nofollow" target="_blank" rel="nofollow" title="Share on Google+"><i class="fa fa-google-plus"></i><span class="share-btns__label screen-reader-text">Google+</span></a></div><div class="share-btns__item linkedin-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/&amp;title=Të ndihmojmë familjet në nevojë për muajin e shejntë të Ramazanit!&amp;summary=Duke ju uruar për shumë vite muajin e shejntë të Ramazanit, Shoqata Atdhetare Dibra ju njofton se tradita për të ndihmuar familjet në nevoje për këtë muaj të bekuar vazhdon, dhe ky aksion humanitar do të fillojë prej nesër (e Martë, 13 Prill, 2021). Nuk ka më kënaqësi shpirtërore se sa të ndihmosh/ushqesh një familje [&amp;hellip;]&amp;source=https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/" rel="nofollow" target="_blank" rel="nofollow" title="Share on LinkedIn"><i class="fa fa-linkedin"></i><span class="share-btns__label screen-reader-text">LinkedIn</span></a></div><div class="share-btns__item pinterest-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.pinterest.com/pin/create/button/?url=https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/&amp;description=Të ndihmojmë familjet në nevojë për muajin e shejntë të Ramazanit!&amp;media=https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/173368684_3863391220411497_6968989192369773069_n.jpg?fit=988%2C1280&amp;#038;ssl=1" rel="nofollow" target="_blank" rel="nofollow" title="Share on Pinterest"><i class="fa fa-pinterest"></i><span class="share-btns__label screen-reader-text">Pinterest</span></a></div></div>		<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/te-ndihmojme-familjet-ne-nevoje-per-muajin-e-shejnte-te-ramazanit/" class="btn"><span class="btn__text">Lexo...</span><span class="btn__icon"></span></a>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+<article id="post-3094" class="posts-list__item card hentry post-3094 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+			<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/regjistrimi-2021/" class="post-thumbnail__link post-thumbnail--small"><img width="370" height="230" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/170281567_3848060708611215_8433551747610037289_n.jpg?resize=370%2C230&amp;ssl=1" class="post-thumbnail__img wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/170281567_3848060708611215_8433551747610037289_n.jpg?resize=370%2C230&amp;ssl=1 370w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/170281567_3848060708611215_8433551747610037289_n.jpg?resize=560%2C350&amp;ssl=1 560w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/170281567_3848060708611215_8433551747610037289_n.jpg?resize=770%2C480&amp;ssl=1 770w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/170281567_3848060708611215_8433551747610037289_n.jpg?zoom=3&amp;resize=370%2C230 1110w" sizes="(max-width: 370px) 100vw, 370px"/></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/" rel="category tag">Lajme nga Dibra</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/" rel="category tag">Lajme nga Shoqata</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/" rel="category tag">Lajmërime - Front Cover</a></div>					</figure><!-- .post-thumbnail -->
+
+		<header class="entry-header">
+			<span class="post-author">Posted by <a class="post-author__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/">Admin</a></span>			<h2 class="entry-title"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/regjistrimi-2021/" rel="bookmark">Regjistrimi 2021</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			Rritmi i punës për regjistrimin e popullatës vazhdon njëlloj si në fillimin e saj! Falenderojmë pa masë grupin përkrahës nga Dibra të cilët vullnetarisht bashkëpunojnë me Shoqatën Atdhetare Dibra, ku vazhdojnë për c’do ditë nëpërmjet telefoanatave nga Dibra, të kontaktojnë komunitetin tonë në Amerik, për&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+				<span class="post__date"><i class="material-icons">event</i><a class="post-date__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/regjistrimi-2021/"><time class="post-date__time" datetime="2021-04-13T18:15:32+00:00">April 13, 2021</time></a></span><span class="post__comments"><i class="material-icons">mode_comment</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/regjistrimi-2021/#respond" class="post-comments__link">0</a></span>			</div><!-- .entry-meta -->
+
+		
+	</div>
+	<footer class="entry-footer">
+		<div class="share-btns__list "><div class="share-btns__item facebook-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.facebook.com/sharer/sharer.php?u=https://www.dibra.org/regjistrimi-2021/&amp;t=Regjistrimi 2021" rel="nofollow" target="_blank" rel="nofollow" title="Share on Facebook"><i class="fa fa-facebook"></i><span class="share-btns__label screen-reader-text">Facebook</span></a></div><div class="share-btns__item twitter-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://twitter.com/intent/tweet?url=https://www.dibra.org/regjistrimi-2021/&amp;text=Regjistrimi 2021" rel="nofollow" target="_blank" rel="nofollow" title="Share on Twitter"><i class="fa fa-twitter"></i><span class="share-btns__label screen-reader-text">Twitter</span></a></div><div class="share-btns__item google-plus-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://plus.google.com/share?url=https://www.dibra.org/regjistrimi-2021/" rel="nofollow" target="_blank" rel="nofollow" title="Share on Google+"><i class="fa fa-google-plus"></i><span class="share-btns__label screen-reader-text">Google+</span></a></div><div class="share-btns__item linkedin-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.dibra.org/regjistrimi-2021/&amp;title=Regjistrimi 2021&amp;summary=Rritmi i punës për regjistrimin e popullatës vazhdon njëlloj si në fillimin e saj! Falenderojmë pa masë grupin përkrahës nga Dibra të cilët vullnetarisht bashkëpunojnë me Shoqatën Atdhetare Dibra, ku vazhdojnë për c’do ditë nëpërmjet telefoanatave nga Dibra, të kontaktojnë komunitetin tonë në Amerik, për të ofruar ndihmë në lidhje me regjistrimin. Falenderojmë : Xhemaili [&amp;hellip;]&amp;source=https://www.dibra.org/regjistrimi-2021/" rel="nofollow" target="_blank" rel="nofollow" title="Share on LinkedIn"><i class="fa fa-linkedin"></i><span class="share-btns__label screen-reader-text">LinkedIn</span></a></div><div class="share-btns__item pinterest-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.pinterest.com/pin/create/button/?url=https://www.dibra.org/regjistrimi-2021/&amp;description=Regjistrimi 2021&amp;media=https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/170281567_3848060708611215_8433551747610037289_n.jpg?fit=1280%2C960&amp;#038;ssl=1" rel="nofollow" target="_blank" rel="nofollow" title="Share on Pinterest"><i class="fa fa-pinterest"></i><span class="share-btns__label screen-reader-text">Pinterest</span></a></div></div>		<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/regjistrimi-2021/" class="btn"><span class="btn__text">Lexo...</span><span class="btn__icon"></span></a>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+<article id="post-3086" class="posts-list__item card hentry post-3086 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+			<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/100-kubik-dru-per-ata-ne-nevoj/" class="post-thumbnail__link post-thumbnail--small"><img width="370" height="230" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/145846991_3671084076308880_89918684916370328_n.jpg?resize=370%2C230&amp;ssl=1" class="post-thumbnail__img wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/145846991_3671084076308880_89918684916370328_n.jpg?resize=370%2C230&amp;ssl=1 370w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/145846991_3671084076308880_89918684916370328_n.jpg?resize=560%2C350&amp;ssl=1 560w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/145846991_3671084076308880_89918684916370328_n.jpg?resize=770%2C480&amp;ssl=1 770w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/145846991_3671084076308880_89918684916370328_n.jpg?zoom=3&amp;resize=370%2C230 1110w" sizes="(max-width: 370px) 100vw, 370px"/></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/" rel="category tag">Lajme nga Dibra</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/" rel="category tag">Lajme nga Shoqata</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/" rel="category tag">Lajmërime - Front Cover</a></div>					</figure><!-- .post-thumbnail -->
+
+		<header class="entry-header">
+			<span class="post-author">Posted by <a class="post-author__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/">Admin</a></span>			<h2 class="entry-title"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/100-kubik-dru-per-ata-ne-nevoj/" rel="bookmark">100 Kubik dru për ata në nevoj</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			Edhe në krizën nga epidemia e COVID-19 , ne gjindemi pranë familjeve në nevojë! Ndihma për familjet në nevojë nuk ka munguar dhe nuk do të mungojë nga SHAD, dega e bamirësisë nën udhëheqësen e Bekim Paçuku, ndihmoi 25 familjeve në nevojë duke ju siguruar&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+				<span class="post__date"><i class="material-icons">event</i><a class="post-date__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/100-kubik-dru-per-ata-ne-nevoj/"><time class="post-date__time" datetime="2021-04-13T18:12:08+00:00">April 13, 2021</time></a></span><span class="post__comments"><i class="material-icons">mode_comment</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/100-kubik-dru-per-ata-ne-nevoj/#respond" class="post-comments__link">0</a></span>			</div><!-- .entry-meta -->
+
+		
+	</div>
+	<footer class="entry-footer">
+		<div class="share-btns__list "><div class="share-btns__item facebook-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.facebook.com/sharer/sharer.php?u=https://www.dibra.org/100-kubik-dru-per-ata-ne-nevoj/&amp;t=100 Kubik dru për ata në nevoj" rel="nofollow" target="_blank" rel="nofollow" title="Share on Facebook"><i class="fa fa-facebook"></i><span class="share-btns__label screen-reader-text">Facebook</span></a></div><div class="share-btns__item twitter-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://twitter.com/intent/tweet?url=https://www.dibra.org/100-kubik-dru-per-ata-ne-nevoj/&amp;text=100 Kubik dru për ata në nevoj" rel="nofollow" target="_blank" rel="nofollow" title="Share on Twitter"><i class="fa fa-twitter"></i><span class="share-btns__label screen-reader-text">Twitter</span></a></div><div class="share-btns__item google-plus-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://plus.google.com/share?url=https://www.dibra.org/100-kubik-dru-per-ata-ne-nevoj/" rel="nofollow" target="_blank" rel="nofollow" title="Share on Google+"><i class="fa fa-google-plus"></i><span class="share-btns__label screen-reader-text">Google+</span></a></div><div class="share-btns__item linkedin-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.dibra.org/100-kubik-dru-per-ata-ne-nevoj/&amp;title=100 Kubik dru për ata në nevoj&amp;summary=Edhe në krizën nga epidemia e COVID-19 , ne gjindemi pranë familjeve në nevojë! Ndihma për familjet në nevojë nuk ka munguar dhe nuk do të mungojë nga SHAD, dega e bamirësisë nën udhëheqësen e Bekim Paçuku, ndihmoi 25 familjeve në nevojë duke ju siguruar 100 kubik dru zjarri për sezonin e dimrit për këto [&amp;hellip;]&amp;source=https://www.dibra.org/100-kubik-dru-per-ata-ne-nevoj/" rel="nofollow" target="_blank" rel="nofollow" title="Share on LinkedIn"><i class="fa fa-linkedin"></i><span class="share-btns__label screen-reader-text">LinkedIn</span></a></div><div class="share-btns__item pinterest-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.pinterest.com/pin/create/button/?url=https://www.dibra.org/100-kubik-dru-per-ata-ne-nevoj/&amp;description=100 Kubik dru për ata në nevoj&amp;media=https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/145846991_3671084076308880_89918684916370328_n.jpg?fit=1600%2C1200&amp;#038;ssl=1" rel="nofollow" target="_blank" rel="nofollow" title="Share on Pinterest"><i class="fa fa-pinterest"></i><span class="share-btns__label screen-reader-text">Pinterest</span></a></div></div>		<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/100-kubik-dru-per-ata-ne-nevoj/" class="btn"><span class="btn__text">Lexo...</span><span class="btn__icon"></span></a>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+<article id="post-3076" class="posts-list__item card hentry post-3076 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+			<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/tableta-per-mesimin-ne-distance/" class="post-thumbnail__link post-thumbnail--small"><img width="370" height="230" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/2_131984186_2941929476049009_2802048501365159619_n.jpg?resize=370%2C230&amp;ssl=1" class="post-thumbnail__img wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/2_131984186_2941929476049009_2802048501365159619_n.jpg?resize=370%2C230&amp;ssl=1 370w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/2_131984186_2941929476049009_2802048501365159619_n.jpg?resize=560%2C350&amp;ssl=1 560w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/2_131984186_2941929476049009_2802048501365159619_n.jpg?resize=770%2C480&amp;ssl=1 770w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/2_131984186_2941929476049009_2802048501365159619_n.jpg?zoom=3&amp;resize=370%2C230 1110w" sizes="(max-width: 370px) 100vw, 370px"/></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/" rel="category tag">Lajme nga Dibra</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/" rel="category tag">Lajme nga Shoqata</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/" rel="category tag">Lajmërime - Front Cover</a></div>					</figure><!-- .post-thumbnail -->
+
+		<header class="entry-header">
+			<span class="post-author">Posted by <a class="post-author__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/">Admin</a></span>			<h2 class="entry-title"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/tableta-per-mesimin-ne-distance/" rel="bookmark">Tableta për mësimin në distancë</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			Duke marrë parasysh kushtet e tanishme të mësimdhënies ku për shkak të Pandemisë me Covid-19 gati të gjithë nxënësit në botë kanë kaluar në mësimin në distancë (online), Shoqata Atdhetare DIBRA si gjithmonë edhe kësaj radhe mendoi për nxënësit e shkollës të cilët kanë nevojë&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+				<span class="post__date"><i class="material-icons">event</i><a class="post-date__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/tableta-per-mesimin-ne-distance/"><time class="post-date__time" datetime="2021-04-13T18:07:00+00:00">April 13, 2021</time></a></span><span class="post__comments"><i class="material-icons">mode_comment</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/tableta-per-mesimin-ne-distance/#respond" class="post-comments__link">0</a></span>			</div><!-- .entry-meta -->
+
+		
+	</div>
+	<footer class="entry-footer">
+		<div class="share-btns__list "><div class="share-btns__item facebook-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.facebook.com/sharer/sharer.php?u=https://www.dibra.org/tableta-per-mesimin-ne-distance/&amp;t=Tableta për mësimin në distancë" rel="nofollow" target="_blank" rel="nofollow" title="Share on Facebook"><i class="fa fa-facebook"></i><span class="share-btns__label screen-reader-text">Facebook</span></a></div><div class="share-btns__item twitter-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://twitter.com/intent/tweet?url=https://www.dibra.org/tableta-per-mesimin-ne-distance/&amp;text=Tableta për mësimin në distancë" rel="nofollow" target="_blank" rel="nofollow" title="Share on Twitter"><i class="fa fa-twitter"></i><span class="share-btns__label screen-reader-text">Twitter</span></a></div><div class="share-btns__item google-plus-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://plus.google.com/share?url=https://www.dibra.org/tableta-per-mesimin-ne-distance/" rel="nofollow" target="_blank" rel="nofollow" title="Share on Google+"><i class="fa fa-google-plus"></i><span class="share-btns__label screen-reader-text">Google+</span></a></div><div class="share-btns__item linkedin-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.dibra.org/tableta-per-mesimin-ne-distance/&amp;title=Tableta për mësimin në distancë&amp;summary=Duke marrë parasysh kushtet e tanishme të mësimdhënies ku për shkak të Pandemisë me Covid-19 gati të gjithë nxënësit në botë kanë kaluar në mësimin në distancë (online), Shoqata Atdhetare DIBRA si gjithmonë edhe kësaj radhe mendoi për nxënësit e shkollës të cilët kanë nevojë për tabletë dhe në këtë kontekst siguruan donacion prej 100 [&amp;hellip;]&amp;source=https://www.dibra.org/tableta-per-mesimin-ne-distance/" rel="nofollow" target="_blank" rel="nofollow" title="Share on LinkedIn"><i class="fa fa-linkedin"></i><span class="share-btns__label screen-reader-text">LinkedIn</span></a></div><div class="share-btns__item pinterest-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.pinterest.com/pin/create/button/?url=https://www.dibra.org/tableta-per-mesimin-ne-distance/&amp;description=Tableta për mësimin në distancë&amp;media=https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/2_131984186_2941929476049009_2802048501365159619_n.jpg?fit=2016%2C1512&amp;#038;ssl=1" rel="nofollow" target="_blank" rel="nofollow" title="Share on Pinterest"><i class="fa fa-pinterest"></i><span class="share-btns__label screen-reader-text">Pinterest</span></a></div></div>		<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/tableta-per-mesimin-ne-distance/" class="btn"><span class="btn__text">Lexo...</span><span class="btn__icon"></span></a>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+<article id="post-3065" class="posts-list__item card hentry post-3065 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+			<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/ekipi-i-shpetimtareve-vere-2020/" class="post-thumbnail__link post-thumbnail--small"><img width="370" height="230" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/118401298_3220832241334068_3444146204089101996_n.jpg?resize=370%2C230&amp;ssl=1" class="post-thumbnail__img wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/118401298_3220832241334068_3444146204089101996_n.jpg?resize=370%2C230&amp;ssl=1 370w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/118401298_3220832241334068_3444146204089101996_n.jpg?resize=560%2C350&amp;ssl=1 560w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/118401298_3220832241334068_3444146204089101996_n.jpg?resize=770%2C480&amp;ssl=1 770w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/118401298_3220832241334068_3444146204089101996_n.jpg?zoom=3&amp;resize=370%2C230 1110w" sizes="(max-width: 370px) 100vw, 370px"/></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/" rel="category tag">Lajme nga Dibra</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/" rel="category tag">Lajme nga Shoqata</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/" rel="category tag">Lajmërime - Front Cover</a></div>					</figure><!-- .post-thumbnail -->
+
+		<header class="entry-header">
+			<span class="post-author">Posted by <a class="post-author__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/">Admin</a></span>			<h2 class="entry-title"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/ekipi-i-shpetimtareve-vere-2020/" rel="bookmark">Ekipi i Shpëtimtarëve &#8211; Verë 2020</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			Përfundon sezoni i ekipit të shpëtimtarëve për sezonin veror &#8211; 2020 Me datë 25 Gusht 2020, përfunduam sezonin e katërt me ekipin e shpëtimtarëve në liqenin e Dibrës. Me këtë rast falemnderojmë shpëtimtarët: Valdet Çeliku dhe Jon Batku për punën e bërë edhe këtë sezon&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+				<span class="post__date"><i class="material-icons">event</i><a class="post-date__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/ekipi-i-shpetimtareve-vere-2020/"><time class="post-date__time" datetime="2021-04-13T18:03:24+00:00">April 13, 2021</time></a></span><span class="post__comments"><i class="material-icons">mode_comment</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/ekipi-i-shpetimtareve-vere-2020/#respond" class="post-comments__link">0</a></span>			</div><!-- .entry-meta -->
+
+		
+	</div>
+	<footer class="entry-footer">
+		<div class="share-btns__list "><div class="share-btns__item facebook-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.facebook.com/sharer/sharer.php?u=https://www.dibra.org/ekipi-i-shpetimtareve-vere-2020/&amp;t=Ekipi i Shpëtimtarëve &amp;#8211; Verë 2020" rel="nofollow" target="_blank" rel="nofollow" title="Share on Facebook"><i class="fa fa-facebook"></i><span class="share-btns__label screen-reader-text">Facebook</span></a></div><div class="share-btns__item twitter-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://twitter.com/intent/tweet?url=https://www.dibra.org/ekipi-i-shpetimtareve-vere-2020/&amp;text=Ekipi i Shpëtimtarëve &amp;#8211; Verë 2020" rel="nofollow" target="_blank" rel="nofollow" title="Share on Twitter"><i class="fa fa-twitter"></i><span class="share-btns__label screen-reader-text">Twitter</span></a></div><div class="share-btns__item google-plus-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://plus.google.com/share?url=https://www.dibra.org/ekipi-i-shpetimtareve-vere-2020/" rel="nofollow" target="_blank" rel="nofollow" title="Share on Google+"><i class="fa fa-google-plus"></i><span class="share-btns__label screen-reader-text">Google+</span></a></div><div class="share-btns__item linkedin-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.dibra.org/ekipi-i-shpetimtareve-vere-2020/&amp;title=Ekipi i Shpëtimtarëve &amp;#8211; Verë 2020&amp;summary=Përfundon sezoni i ekipit të shpëtimtarëve për sezonin veror &amp;#8211; 2020 Me datë 25 Gusht 2020, përfunduam sezonin e katërt me ekipin e shpëtimtarëve në liqenin e Dibrës. Me këtë rast falemnderojmë shpëtimtarët: Valdet Çeliku dhe Jon Batku për punën e bërë edhe këtë sezon veror. Ky sezon ishte shum më ndryshe se vitet e [&amp;hellip;]&amp;source=https://www.dibra.org/ekipi-i-shpetimtareve-vere-2020/" rel="nofollow" target="_blank" rel="nofollow" title="Share on LinkedIn"><i class="fa fa-linkedin"></i><span class="share-btns__label screen-reader-text">LinkedIn</span></a></div><div class="share-btns__item pinterest-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.pinterest.com/pin/create/button/?url=https://www.dibra.org/ekipi-i-shpetimtareve-vere-2020/&amp;description=Ekipi i Shpëtimtarëve &amp;#8211; Verë 2020&amp;media=https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/nggallery_import/118401298_3220832241334068_3444146204089101996_n.jpg?fit=1567%2C960&amp;#038;ssl=1" rel="nofollow" target="_blank" rel="nofollow" title="Share on Pinterest"><i class="fa fa-pinterest"></i><span class="share-btns__label screen-reader-text">Pinterest</span></a></div></div>		<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/ekipi-i-shpetimtareve-vere-2020/" class="btn"><span class="btn__text">Lexo...</span><span class="btn__icon"></span></a>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+<article id="post-3062" class="posts-list__item card hentry post-3062 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+			<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/lifeguard-2020/" class="post-thumbnail__link post-thumbnail--small"><img width="370" height="230" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/105985908_3070383583045602_6845222990981270522_n.jpg?resize=370%2C230&amp;ssl=1" class="post-thumbnail__img wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/105985908_3070383583045602_6845222990981270522_n.jpg?resize=370%2C230&amp;ssl=1 370w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/105985908_3070383583045602_6845222990981270522_n.jpg?resize=560%2C350&amp;ssl=1 560w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/105985908_3070383583045602_6845222990981270522_n.jpg?resize=770%2C480&amp;ssl=1 770w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/105985908_3070383583045602_6845222990981270522_n.jpg?zoom=3&amp;resize=370%2C230 1110w" sizes="(max-width: 370px) 100vw, 370px"/></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/" rel="category tag">Lajme nga Dibra</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/" rel="category tag">Lajme nga Shoqata</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/" rel="category tag">Lajmërime - Front Cover</a></div>					</figure><!-- .post-thumbnail -->
+
+		<header class="entry-header">
+			<span class="post-author">Posted by <a class="post-author__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/">Admin</a></span>			<h2 class="entry-title"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/lifeguard-2020/" rel="bookmark">Lifeguard 2020</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			Shoqata Atdhetare Dibra edhe këtë vit do të marri përsipër të aktivizojë ekipin e shpëtimtarëve gjatë sezonit të verës në liqenin e Dibrës në bashkëpunim me Kryqin e Kuq &#8211; Dibër. Duke pasur parasysh rëndësinë e prezencës të ekipit të shpëtimtarëve në bregun e liqenit&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+				<span class="post__date"><i class="material-icons">event</i><a class="post-date__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/lifeguard-2020/"><time class="post-date__time" datetime="2021-04-13T17:30:05+00:00">April 13, 2021</time></a></span><span class="post__comments"><i class="material-icons">mode_comment</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/lifeguard-2020/#respond" class="post-comments__link">0</a></span>			</div><!-- .entry-meta -->
+
+		
+	</div>
+	<footer class="entry-footer">
+		<div class="share-btns__list "><div class="share-btns__item facebook-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.facebook.com/sharer/sharer.php?u=https://www.dibra.org/lifeguard-2020/&amp;t=Lifeguard 2020" rel="nofollow" target="_blank" rel="nofollow" title="Share on Facebook"><i class="fa fa-facebook"></i><span class="share-btns__label screen-reader-text">Facebook</span></a></div><div class="share-btns__item twitter-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://twitter.com/intent/tweet?url=https://www.dibra.org/lifeguard-2020/&amp;text=Lifeguard 2020" rel="nofollow" target="_blank" rel="nofollow" title="Share on Twitter"><i class="fa fa-twitter"></i><span class="share-btns__label screen-reader-text">Twitter</span></a></div><div class="share-btns__item google-plus-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://plus.google.com/share?url=https://www.dibra.org/lifeguard-2020/" rel="nofollow" target="_blank" rel="nofollow" title="Share on Google+"><i class="fa fa-google-plus"></i><span class="share-btns__label screen-reader-text">Google+</span></a></div><div class="share-btns__item linkedin-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.dibra.org/lifeguard-2020/&amp;title=Lifeguard 2020&amp;summary=Shoqata Atdhetare Dibra edhe këtë vit do të marri përsipër të aktivizojë ekipin e shpëtimtarëve gjatë sezonit të verës në liqenin e Dibrës në bashkëpunim me Kryqin e Kuq &amp;#8211; Dibër. Duke pasur parasysh rëndësinë e prezencës të ekipit të shpëtimtarëve në bregun e liqenit të Dibrës, si dhe punës të shkëlqyer në tre vitet [&amp;hellip;]&amp;source=https://www.dibra.org/lifeguard-2020/" rel="nofollow" target="_blank" rel="nofollow" title="Share on LinkedIn"><i class="fa fa-linkedin"></i><span class="share-btns__label screen-reader-text">LinkedIn</span></a></div><div class="share-btns__item pinterest-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.pinterest.com/pin/create/button/?url=https://www.dibra.org/lifeguard-2020/&amp;description=Lifeguard 2020&amp;media=https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/105985908_3070383583045602_6845222990981270522_n.jpg?fit=1280%2C1231&amp;#038;ssl=1" rel="nofollow" target="_blank" rel="nofollow" title="Share on Pinterest"><i class="fa fa-pinterest"></i><span class="share-btns__label screen-reader-text">Pinterest</span></a></div></div>		<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/lifeguard-2020/" class="btn"><span class="btn__text">Lexo...</span><span class="btn__icon"></span></a>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+<article id="post-3059" class="posts-list__item card hentry post-3059 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+			<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/vazhdon-ndihma-per-dibren/" class="post-thumbnail__link post-thumbnail--small"><img width="370" height="230" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/98359767_2954895864594375_6896236542587568128_n.jpg?resize=370%2C230&amp;ssl=1" class="post-thumbnail__img wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/98359767_2954895864594375_6896236542587568128_n.jpg?resize=370%2C230&amp;ssl=1 370w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/98359767_2954895864594375_6896236542587568128_n.jpg?resize=560%2C350&amp;ssl=1 560w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/98359767_2954895864594375_6896236542587568128_n.jpg?resize=770%2C480&amp;ssl=1 770w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/98359767_2954895864594375_6896236542587568128_n.jpg?zoom=3&amp;resize=370%2C230 1110w" sizes="(max-width: 370px) 100vw, 370px"/></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/" rel="category tag">Lajme nga Dibra</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/" rel="category tag">Lajme nga Shoqata</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/" rel="category tag">Lajmërime - Front Cover</a></div>					</figure><!-- .post-thumbnail -->
+
+		<header class="entry-header">
+			<span class="post-author">Posted by <a class="post-author__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/">Admin</a></span>			<h2 class="entry-title"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/vazhdon-ndihma-per-dibren/" rel="bookmark">Vazhdon ndihma për Dibrën!</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			Vazhdon ndihma për Dibrën! Për gjatë muajit të Ramazanit, Shoqata Atdhetare Dibra, realizoi fazën e katërt që nga fillimi i situatës së COVID 19 në qytetin e Dibrës. Kësaj here për hir të muajit të Ramazanit, vazhduam traditën duke ndihmuar familjet në nevojë për këtë&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+				<span class="post__date"><i class="material-icons">event</i><a class="post-date__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/vazhdon-ndihma-per-dibren/"><time class="post-date__time" datetime="2021-04-13T17:28:03+00:00">April 13, 2021</time></a></span><span class="post__comments"><i class="material-icons">mode_comment</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/vazhdon-ndihma-per-dibren/#respond" class="post-comments__link">0</a></span>			</div><!-- .entry-meta -->
+
+		
+	</div>
+	<footer class="entry-footer">
+		<div class="share-btns__list "><div class="share-btns__item facebook-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.facebook.com/sharer/sharer.php?u=https://www.dibra.org/vazhdon-ndihma-per-dibren/&amp;t=Vazhdon ndihma për Dibrën!" rel="nofollow" target="_blank" rel="nofollow" title="Share on Facebook"><i class="fa fa-facebook"></i><span class="share-btns__label screen-reader-text">Facebook</span></a></div><div class="share-btns__item twitter-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://twitter.com/intent/tweet?url=https://www.dibra.org/vazhdon-ndihma-per-dibren/&amp;text=Vazhdon ndihma për Dibrën!" rel="nofollow" target="_blank" rel="nofollow" title="Share on Twitter"><i class="fa fa-twitter"></i><span class="share-btns__label screen-reader-text">Twitter</span></a></div><div class="share-btns__item google-plus-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://plus.google.com/share?url=https://www.dibra.org/vazhdon-ndihma-per-dibren/" rel="nofollow" target="_blank" rel="nofollow" title="Share on Google+"><i class="fa fa-google-plus"></i><span class="share-btns__label screen-reader-text">Google+</span></a></div><div class="share-btns__item linkedin-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.dibra.org/vazhdon-ndihma-per-dibren/&amp;title=Vazhdon ndihma për Dibrën!&amp;summary=Vazhdon ndihma për Dibrën! Për gjatë muajit të Ramazanit, Shoqata Atdhetare Dibra, realizoi fazën e katërt që nga fillimi i situatës së COVID 19 në qytetin e Dibrës. Kësaj here për hir të muajit të Ramazanit, vazhduam traditën duke ndihmuar familjet në nevojë për këtë muaj të shejntë.U ndihmaun 50 familje me nga një pako [&amp;hellip;]&amp;source=https://www.dibra.org/vazhdon-ndihma-per-dibren/" rel="nofollow" target="_blank" rel="nofollow" title="Share on LinkedIn"><i class="fa fa-linkedin"></i><span class="share-btns__label screen-reader-text">LinkedIn</span></a></div><div class="share-btns__item pinterest-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.pinterest.com/pin/create/button/?url=https://www.dibra.org/vazhdon-ndihma-per-dibren/&amp;description=Vazhdon ndihma për Dibrën!&amp;media=https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/98359767_2954895864594375_6896236542587568128_n.jpg?fit=1280%2C1280&amp;#038;ssl=1" rel="nofollow" target="_blank" rel="nofollow" title="Share on Pinterest"><i class="fa fa-pinterest"></i><span class="share-btns__label screen-reader-text">Pinterest</span></a></div></div>		<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/vazhdon-ndihma-per-dibren/" class="btn"><span class="btn__text">Lexo...</span><span class="btn__icon"></span></a>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+<article id="post-3044" class="posts-list__item card hentry post-3044 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+			<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/covid-ndihma-e-pare-nga-shoqata-atdhetare-dibra/" class="post-thumbnail__link post-thumbnail--small"><img width="370" height="230" src="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/84391835_2811663392250957_2884231643487272960_n.jpg?resize=370%2C230&amp;ssl=1" class="post-thumbnail__img wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/84391835_2811663392250957_2884231643487272960_n.jpg?resize=370%2C230&amp;ssl=1 370w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/84391835_2811663392250957_2884231643487272960_n.jpg?resize=560%2C350&amp;ssl=1 560w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/84391835_2811663392250957_2884231643487272960_n.jpg?resize=770%2C480&amp;ssl=1 770w, https://web.archive.org/web/20240404222356im_/https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/84391835_2811663392250957_2884231643487272960_n.jpg?zoom=3&amp;resize=370%2C230 1110w" sizes="(max-width: 370px) 100vw, 370px"/></a>			<div class="post__cats"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/" rel="category tag">Lajme nga Dibra</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/" rel="category tag">Lajme nga Shoqata</a> <a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/" rel="category tag">Lajmërime - Front Cover</a></div>					</figure><!-- .post-thumbnail -->
+
+		<header class="entry-header">
+			<span class="post-author">Posted by <a class="post-author__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/author/djmennygmail-com/">Admin</a></span>			<h2 class="entry-title"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/covid-ndihma-e-pare-nga-shoqata-atdhetare-dibra/" rel="bookmark">COVID  Ndihma e parë nga Shoqata Atdhetare Dibra</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			Sot u realizua ndihma e parë nga Shoqata Atdhetare Dibra për qytetin e Dibrës simbas sugjerimit nga Shtabi Operativ Komunal për Mbrojtje dhe Shpëtim- Komuna Dibër.- Për ç&#8217;do familje në qytetin e Dibrës, do të dhurohet qese për mbeturina (2923 paqeta * 10 copa në&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+				<span class="post__date"><i class="material-icons">event</i><a class="post-date__link" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/covid-ndihma-e-pare-nga-shoqata-atdhetare-dibra/"><time class="post-date__time" datetime="2021-04-13T17:22:36+00:00">April 13, 2021</time></a></span><span class="post__comments"><i class="material-icons">mode_comment</i><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/covid-ndihma-e-pare-nga-shoqata-atdhetare-dibra/#respond" class="post-comments__link">0</a></span>			</div><!-- .entry-meta -->
+
+		
+	</div>
+	<footer class="entry-footer">
+		<div class="share-btns__list "><div class="share-btns__item facebook-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.facebook.com/sharer/sharer.php?u=https://www.dibra.org/covid-ndihma-e-pare-nga-shoqata-atdhetare-dibra/&amp;t=COVID  Ndihma e parë nga Shoqata Atdhetare Dibra" rel="nofollow" target="_blank" rel="nofollow" title="Share on Facebook"><i class="fa fa-facebook"></i><span class="share-btns__label screen-reader-text">Facebook</span></a></div><div class="share-btns__item twitter-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://twitter.com/intent/tweet?url=https://www.dibra.org/covid-ndihma-e-pare-nga-shoqata-atdhetare-dibra/&amp;text=COVID  Ndihma e parë nga Shoqata Atdhetare Dibra" rel="nofollow" target="_blank" rel="nofollow" title="Share on Twitter"><i class="fa fa-twitter"></i><span class="share-btns__label screen-reader-text">Twitter</span></a></div><div class="share-btns__item google-plus-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://plus.google.com/share?url=https://www.dibra.org/covid-ndihma-e-pare-nga-shoqata-atdhetare-dibra/" rel="nofollow" target="_blank" rel="nofollow" title="Share on Google+"><i class="fa fa-google-plus"></i><span class="share-btns__label screen-reader-text">Google+</span></a></div><div class="share-btns__item linkedin-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.dibra.org/covid-ndihma-e-pare-nga-shoqata-atdhetare-dibra/&amp;title=COVID  Ndihma e parë nga Shoqata Atdhetare Dibra&amp;summary=Sot u realizua ndihma e parë nga Shoqata Atdhetare Dibra për qytetin e Dibrës simbas sugjerimit nga Shtabi Operativ Komunal për Mbrojtje dhe Shpëtim- Komuna Dibër.- Për ç&amp;#8217;do familje në qytetin e Dibrës, do të dhurohet qese për mbeturina (2923 paqeta * 10 copa në paqet = 29,320 copa në total) me qëllim që mbeturinat [&amp;hellip;]&amp;source=https://www.dibra.org/covid-ndihma-e-pare-nga-shoqata-atdhetare-dibra/" rel="nofollow" target="_blank" rel="nofollow" title="Share on LinkedIn"><i class="fa fa-linkedin"></i><span class="share-btns__label screen-reader-text">LinkedIn</span></a></div><div class="share-btns__item pinterest-item"><a class="share-btns__link" href="https://web.archive.org/web/20240404222356/https://www.pinterest.com/pin/create/button/?url=https://www.dibra.org/covid-ndihma-e-pare-nga-shoqata-atdhetare-dibra/&amp;description=COVID  Ndihma e parë nga Shoqata Atdhetare Dibra&amp;media=https://i0.wp.com/www.dibra.org/wp-content/uploads/2021/04/84391835_2811663392250957_2884231643487272960_n.jpg?fit=1600%2C1200&amp;#038;ssl=1" rel="nofollow" target="_blank" rel="nofollow" title="Share on Pinterest"><i class="fa fa-pinterest"></i><span class="share-btns__label screen-reader-text">Pinterest</span></a></div></div>		<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/covid-ndihma-e-pare-nga-shoqata-atdhetare-dibra/" class="btn"><span class="btn__text">Lexo...</span><span class="btn__icon"></span></a>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+	</div><!-- .posts-list -->
+
+	
+	<nav class="navigation pagination" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/page/2/">2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/page/13/">13</a>
+<a class="next page-numbers" href="https://web.archive.org/web/20240404222356/https://www.dibra.org/page/2/"><i class="material-icons">navigate_next</i></a></div>
+	</nav>
+				</main><!-- #main -->
+
+				
+			</div><!-- #primary -->
+
+			
+			
+<aside id="sidebar-primary" class="col-xs-12 col-md-3 sidebar-primary widget-area" role="complementary"><aside id="categories-2" class="widget widget_categories"><h5 class="widget-title">Categories</h5>
+			<ul>
+					<li class="cat-item cat-item-8"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/art-dhe-kulture/">Art dhe Kulture</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-dibra/">Lajme nga Dibra</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajme-nga-shoqata/">Lajme nga Shoqata</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/lajmerime/">Lajmërime &#8211; Front Cover</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/sport/">Sport</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/uncategorized/">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/category/video/">Video</a>
+</li>
+			</ul>
+
+			</aside><aside id="archives-2" class="widget widget_archive"><h5 class="widget-title">Archives</h5>
+			<ul>
+					<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2021/05/">May 2021</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2021/04/">April 2021</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2020/01/">January 2020</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2019/09/">September 2019</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2019/06/">June 2019</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2019/05/">May 2019</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2019/04/">April 2019</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2019/03/">March 2019</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2019/01/">January 2019</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2018/12/">December 2018</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2018/11/">November 2018</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2018/10/">October 2018</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2018/08/">August 2018</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2018/07/">July 2018</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2018/06/">June 2018</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2018/05/">May 2018</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2018/04/">April 2018</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2018/02/">February 2018</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2017/12/">December 2017</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2017/10/">October 2017</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2017/09/">September 2017</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2017/08/">August 2017</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2017/07/">July 2017</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2017/05/">May 2017</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2017/04/">April 2017</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2017/03/">March 2017</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2017/02/">February 2017</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2017/01/">January 2017</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2016/12/">December 2016</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2016/11/">November 2016</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2016/10/">October 2016</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2016/09/">September 2016</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2016/08/">August 2016</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2016/07/">July 2016</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2016/06/">June 2016</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2016/05/">May 2016</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2016/04/">April 2016</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2016/02/">February 2016</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2015/03/">March 2015</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2013/12/">December 2013</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2013/11/">November 2013</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2011/03/">March 2011</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2010/01/">January 2010</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2008/08/">August 2008</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2007/08/">August 2007</a></li>
+	<li><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/1998/04/">April 1998</a></li>
+			</ul>
+
+			</aside><aside id="calendar-2" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar" class="wp-calendar-table">
+	<caption>April 2024</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr><td>1</td><td>2</td><td>3</td><td id="today">4</td><td>5</td><td>6</td><td>7</td>
+	</tr>
+	<tr>
+		<td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td>
+	</tr>
+	<tr>
+		<td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td>
+	</tr>
+	<tr>
+		<td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td>
+	</tr>
+	<tr>
+		<td>29</td><td>30</td>
+		<td class="pad" colspan="5">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table><nav aria-label="Previous and next months" class="wp-calendar-nav">
+		<span class="wp-calendar-nav-prev"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/2021/05/">&laquo; May</a></span>
+		<span class="pad">&nbsp;</span>
+		<span class="wp-calendar-nav-next">&nbsp;</span>
+	</nav></div></aside></aside>
+		</div><!-- .row -->
+
+		
+	</div><!-- .container -->
+
+	
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer default" role="contentinfo">
+		<div class="footer-area-wrap invert">
+	<div class="container">
+		<section id="footer-area" class="footer-area widget-area row">
+		<aside id="recent-posts-2" class="col-xs-12 col-sm-12 col-md-12 footer-area--centered widget widget_recent_entries">
+		<h5 class="widget-title">Recent Posts</h5>
+		<ul>
+											<li>
+					<a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/pikniku-dibran-2021/">Pikniku Dibran 2021</a>
+									</li>
+					</ul>
+
+		</aside></section>	</div>
+</div>
+
+<div class="footer-container">
+	<div class="site-info">
+		<div class="site-info__flex">
+			<div class="footer-logo"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/" class="footer-logo_link"><img src="https://web.archive.org/web/20240404222356im_/http://www.dibra.org/wp-content/uploads/2016/10/Logo-Footer.jpg" alt="Shoqata Atdhetare Dibra" class="footer-logo_img"></a></div>			<div class="site-info__mid-box"><div class="footer-copyright">Copyright 2024 Dibra.org All rights reserved.</div>	<nav id="footer-navigation" class="footer-menu" role="navigation">
+		</nav><!-- #footer-navigation -->
+	</div>
+			<div class="social-list social-list--footer"><ul id="social-list-2" class="social-list__items inline-list"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136"><a href="https://web.archive.org/web/20240404222356/http://dibraorg9.wix.com/shad1"><span class="screen-reader-text">English Version</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-510"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/anetaresim-donacion/"><span class="screen-reader-text">Anëtarësim/Donacion</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/regjistrimiregistration/"><span class="screen-reader-text">Regjistrimi/Registration</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-566"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/keshilli/"><span class="screen-reader-text">Keshilli</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="https://web.archive.org/web/20240404222356/https://www.dibra.org/kontakt/"><span class="screen-reader-text">Kontakt</span></a></li>
+</ul></div>		</div>
+	</div><!-- .site-info -->
+</div><!-- .container -->	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://web.archive.org/web/20240404222356/https://www.dibra.org/wp-admin/admin-ajax.php";
+</script>
+<script type="text/javascript" id="cherry-api-js-extra">
+/* <![CDATA[ */
+var wp_load_style = ["formidable.css","sbi_styles.css","jquery-swiper.css","jquery-slider-pro.css","wp-emoji-styles.css","wp-block-library.css","videopress-video-style.css","wp-mediaelement.css","jetpack-sharing-buttons-style.css","classic-theme-styles.css","global-styles.css","contact-form-7.css","tf-track-kickstarter.css","ngg_trigger_buttons.css","fancybox-0.css","fontawesome_v4_shim_style.css","fontawesome.css","nextgen_pagination_style.css","nextgen_basic_thumbnails_style.css","give-styles.css","give-donation-summary-style-frontend.css","blank-style.css","cherry-google-fonts.css"];
+var wp_load_script = ["cherry-api.js","jetpack-photon.js","jquery-swiper.js","jquery-slider-pro.js","contact-form-7.js","ngg_common.js","ngg_lightbox_context.js","fancybox-0.js","fancybox-1.js","fancybox-2.js","fontawesome.js","fontawesome_v4_shim.js","nextgen_basic_thumbnails_script.js","give.js","give-donation-summary-script-frontend.js","wild_ride-theme-script.js","cherry-post-formats.js","do-etfw-twitter-widgets.js","jetpack-stats.js"];
+var cherry_ajax = "ca8c36a9bb";
+var ui_init_object = {"auto_init":"false","targets":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/themes/wild-ride/cherry-framework/modules/cherry-api-js/assets/js/min/cherry-api.min.js?ver=1.0.0" id="cherry-api-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-image-cdn/dist/image-cdn.js?minify=false&amp;ver=132249e245926ae3e188" id="jetpack-photon-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/themes/wild-ride/assets/js/swiper.jquery.min.js?ver=3.3.0" id="jquery-swiper-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/themes/wild-ride/assets/js/jquery.sliderPro.min.js?ver=1.2.4" id="jquery-slider-pro-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.3" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.3" id="contact-form-7-js"></script>
+<script type="text/javascript" id="ngg_common-js-extra">
+/* <![CDATA[ */
+
+var galleries = {};
+galleries.gallery_ef1f8224fd4041645443544f30e6e2c0 = {"__defaults_set":null,"ID":"ef1f8224fd4041645443544f30e6e2c0","album_ids":[],"container_ids":["40"],"display":null,"display_settings":{"display_view":"default-view.php","images_per_page":"20","number_of_columns":0,"thumbnail_width":240,"thumbnail_height":160,"show_all_in_lightbox":0,"ajax_pagination":0,"use_imagebrowser_effect":0,"template":"","display_no_images_error":1,"disable_pagination":0,"show_slideshow_link":1,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":"0","thumbnail_watermark":0,"ngg_triggers_display":"never","use_lightbox_effect":true},"display_type":"photocrati-nextgen_basic_thumbnails","effect_code":null,"entity_ids":[],"excluded_container_ids":[],"exclusions":[],"gallery_ids":[],"id":"ef1f8224fd4041645443544f30e6e2c0","ids":null,"image_ids":[],"images_list_count":null,"inner_content":null,"is_album_gallery":null,"maximum_entity_count":500,"order_by":"sortorder","order_direction":"ASC","returns":"included","skip_excluding_globally_excluded_images":null,"slug":null,"sortorder":[],"source":"galleries","src":null,"tag_ids":[],"tagcloud":false,"transient_id":null};
+galleries.gallery_ef1f8224fd4041645443544f30e6e2c0.wordpress_page_root = "https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/pikniku-dibran-2021\/";
+var nextgen_lightbox_settings = {"static_path":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-content\/plugins\/nextgen-gallery\/static\/Lightbox\/{placeholder}","context":"nextgen_images"};
+galleries.gallery_5c2bac4ce47c222e88e079260260017c = {"__defaults_set":null,"ID":"5c2bac4ce47c222e88e079260260017c","album_ids":[],"container_ids":["39"],"display":null,"display_settings":{"display_view":"default-view.php","images_per_page":"20","number_of_columns":0,"thumbnail_width":240,"thumbnail_height":160,"show_all_in_lightbox":0,"ajax_pagination":0,"use_imagebrowser_effect":0,"template":"","display_no_images_error":1,"disable_pagination":0,"show_slideshow_link":1,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":"0","thumbnail_watermark":0,"ngg_triggers_display":"never","use_lightbox_effect":true},"display_type":"photocrati-nextgen_basic_thumbnails","effect_code":null,"entity_ids":[],"excluded_container_ids":[],"exclusions":[],"gallery_ids":[],"id":"5c2bac4ce47c222e88e079260260017c","ids":null,"image_ids":[],"images_list_count":null,"inner_content":null,"is_album_gallery":null,"maximum_entity_count":500,"order_by":"sortorder","order_direction":"ASC","returns":"included","skip_excluding_globally_excluded_images":null,"slug":null,"sortorder":[],"source":"galleries","src":null,"tag_ids":[],"tagcloud":false,"transient_id":null};
+galleries.gallery_5c2bac4ce47c222e88e079260260017c.wordpress_page_root = "https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/pikniku-dibran-2021\/";
+var nextgen_lightbox_settings = {"static_path":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-content\/plugins\/nextgen-gallery\/static\/Lightbox\/{placeholder}","context":"nextgen_images"};
+galleries.gallery_cae7d884640df37e4587b39ddfa2ed37 = {"__defaults_set":null,"ID":"cae7d884640df37e4587b39ddfa2ed37","album_ids":[],"container_ids":["38"],"display":null,"display_settings":{"display_view":"default-view.php","images_per_page":"20","number_of_columns":0,"thumbnail_width":240,"thumbnail_height":160,"show_all_in_lightbox":0,"ajax_pagination":0,"use_imagebrowser_effect":0,"template":"","display_no_images_error":1,"disable_pagination":0,"show_slideshow_link":1,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":"0","thumbnail_watermark":0,"ngg_triggers_display":"never","use_lightbox_effect":true},"display_type":"photocrati-nextgen_basic_thumbnails","effect_code":null,"entity_ids":[],"excluded_container_ids":[],"exclusions":[],"gallery_ids":[],"id":"cae7d884640df37e4587b39ddfa2ed37","ids":null,"image_ids":[],"images_list_count":null,"inner_content":null,"is_album_gallery":null,"maximum_entity_count":500,"order_by":"sortorder","order_direction":"ASC","returns":"included","skip_excluding_globally_excluded_images":null,"slug":null,"sortorder":[],"source":"galleries","src":null,"tag_ids":[],"tagcloud":false,"transient_id":null};
+galleries.gallery_cae7d884640df37e4587b39ddfa2ed37.wordpress_page_root = "https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/pikniku-dibran-2021\/";
+var nextgen_lightbox_settings = {"static_path":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-content\/plugins\/nextgen-gallery\/static\/Lightbox\/{placeholder}","context":"nextgen_images"};
+galleries.gallery_d41084b07d79ea3cff71d400b5b6dc63 = {"__defaults_set":null,"ID":"d41084b07d79ea3cff71d400b5b6dc63","album_ids":[],"container_ids":["37"],"display":null,"display_settings":{"display_view":"default-view.php","images_per_page":"20","number_of_columns":0,"thumbnail_width":240,"thumbnail_height":160,"show_all_in_lightbox":0,"ajax_pagination":0,"use_imagebrowser_effect":0,"template":"","display_no_images_error":1,"disable_pagination":0,"show_slideshow_link":1,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":"0","thumbnail_watermark":0,"ngg_triggers_display":"never","use_lightbox_effect":true},"display_type":"photocrati-nextgen_basic_thumbnails","effect_code":null,"entity_ids":[],"excluded_container_ids":[],"exclusions":[],"gallery_ids":[],"id":"d41084b07d79ea3cff71d400b5b6dc63","ids":null,"image_ids":[],"images_list_count":null,"inner_content":null,"is_album_gallery":null,"maximum_entity_count":500,"order_by":"sortorder","order_direction":"ASC","returns":"included","skip_excluding_globally_excluded_images":null,"slug":null,"sortorder":[],"source":"galleries","src":null,"tag_ids":[],"tagcloud":false,"transient_id":null};
+galleries.gallery_d41084b07d79ea3cff71d400b5b6dc63.wordpress_page_root = "https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/pikniku-dibran-2021\/";
+var nextgen_lightbox_settings = {"static_path":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-content\/plugins\/nextgen-gallery\/static\/Lightbox\/{placeholder}","context":"nextgen_images"};
+galleries.gallery_e56905e1219aa6b99b15c4db2c526a65 = {"__defaults_set":null,"ID":"e56905e1219aa6b99b15c4db2c526a65","album_ids":[],"container_ids":["36"],"display":null,"display_settings":{"display_view":"default-view.php","images_per_page":"20","number_of_columns":0,"thumbnail_width":240,"thumbnail_height":160,"show_all_in_lightbox":0,"ajax_pagination":0,"use_imagebrowser_effect":0,"template":"","display_no_images_error":1,"disable_pagination":0,"show_slideshow_link":1,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":"0","thumbnail_watermark":0,"ngg_triggers_display":"never","use_lightbox_effect":true},"display_type":"photocrati-nextgen_basic_thumbnails","effect_code":null,"entity_ids":[],"excluded_container_ids":[],"exclusions":[],"gallery_ids":[],"id":"e56905e1219aa6b99b15c4db2c526a65","ids":null,"image_ids":[],"images_list_count":null,"inner_content":null,"is_album_gallery":null,"maximum_entity_count":500,"order_by":"sortorder","order_direction":"ASC","returns":"included","skip_excluding_globally_excluded_images":null,"slug":null,"sortorder":[],"source":"galleries","src":null,"tag_ids":[],"tagcloud":false,"transient_id":null};
+galleries.gallery_e56905e1219aa6b99b15c4db2c526a65.wordpress_page_root = "https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/pikniku-dibran-2021\/";
+var nextgen_lightbox_settings = {"static_path":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-content\/plugins\/nextgen-gallery\/static\/Lightbox\/{placeholder}","context":"nextgen_images"};
+galleries.gallery_edf6196312b9cc409a9fbbf67c4ce060 = {"__defaults_set":null,"ID":"edf6196312b9cc409a9fbbf67c4ce060","album_ids":[],"container_ids":["35"],"display":null,"display_settings":{"display_view":"default-view.php","images_per_page":"20","number_of_columns":0,"thumbnail_width":240,"thumbnail_height":160,"show_all_in_lightbox":0,"ajax_pagination":0,"use_imagebrowser_effect":0,"template":"","display_no_images_error":1,"disable_pagination":0,"show_slideshow_link":1,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":"0","thumbnail_watermark":0,"ngg_triggers_display":"never","use_lightbox_effect":true},"display_type":"photocrati-nextgen_basic_thumbnails","effect_code":null,"entity_ids":[],"excluded_container_ids":[],"exclusions":[],"gallery_ids":[],"id":"edf6196312b9cc409a9fbbf67c4ce060","ids":null,"image_ids":[],"images_list_count":null,"inner_content":null,"is_album_gallery":null,"maximum_entity_count":500,"order_by":"sortorder","order_direction":"ASC","returns":"included","skip_excluding_globally_excluded_images":null,"slug":null,"sortorder":[],"source":"galleries","src":null,"tag_ids":[],"tagcloud":false,"transient_id":null};
+galleries.gallery_edf6196312b9cc409a9fbbf67c4ce060.wordpress_page_root = "https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/pikniku-dibran-2021\/";
+var nextgen_lightbox_settings = {"static_path":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-content\/plugins\/nextgen-gallery\/static\/Lightbox\/{placeholder}","context":"nextgen_images"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/plugins/nextgen-gallery/static/GalleryDisplay/common.js?ver=3.59.1" id="ngg_common-js"></script>
+<script type="text/javascript" id="ngg_common-js-after">
+/* <![CDATA[ */
+            var nggLastTimeoutVal = 1000;
+
+            var nggRetryFailedImage = function(img) {
+                setTimeout(function(){
+                    img.src = img.src;
+                }, nggLastTimeoutVal);
+
+                nggLastTimeoutVal += 500;
+            }
+
+            var nggLastTimeoutVal = 1000;
+
+            var nggRetryFailedImage = function(img) {
+                setTimeout(function(){
+                    img.src = img.src;
+                }, nggLastTimeoutVal);
+
+                nggLastTimeoutVal += 500;
+            }
+
+            var nggLastTimeoutVal = 1000;
+
+            var nggRetryFailedImage = function(img) {
+                setTimeout(function(){
+                    img.src = img.src;
+                }, nggLastTimeoutVal);
+
+                nggLastTimeoutVal += 500;
+            }
+
+            var nggLastTimeoutVal = 1000;
+
+            var nggRetryFailedImage = function(img) {
+                setTimeout(function(){
+                    img.src = img.src;
+                }, nggLastTimeoutVal);
+
+                nggLastTimeoutVal += 500;
+            }
+
+            var nggLastTimeoutVal = 1000;
+
+            var nggRetryFailedImage = function(img) {
+                setTimeout(function(){
+                    img.src = img.src;
+                }, nggLastTimeoutVal);
+
+                nggLastTimeoutVal += 500;
+            }
+
+            var nggLastTimeoutVal = 1000;
+
+            var nggRetryFailedImage = function(img) {
+                setTimeout(function(){
+                    img.src = img.src;
+                }, nggLastTimeoutVal);
+
+                nggLastTimeoutVal += 500;
+            }
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/plugins/nextgen-gallery/static/Lightbox/lightbox_context.js?ver=3.59.1" id="ngg_lightbox_context-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/plugins/nextgen-gallery/static/Lightbox/fancybox/jquery.easing-1.3.pack.js?ver=3.59.1" id="fancybox-0-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/plugins/nextgen-gallery/static/Lightbox/fancybox/jquery.fancybox-1.3.4.pack.js?ver=3.59.1" id="fancybox-1-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/plugins/nextgen-gallery/static/Lightbox/fancybox/nextgen_fancybox_init.js?ver=3.59.1" id="fancybox-2-js"></script>
+<script type="text/javascript" id="give-donation-summary-script-frontend-js-extra">
+/* <![CDATA[ */
+var GiveDonationSummaryData = {"currencyPrecisionLookup":{"USD":2,"EUR":2,"GBP":2,"AUD":2,"BRL":2,"CAD":2,"CZK":2,"DKK":2,"HKD":2,"HUF":2,"ILS":2,"JPY":0,"MYR":2,"MXN":2,"MAD":2,"NZD":2,"NOK":2,"PHP":2,"PLN":2,"SGD":2,"KRW":0,"ZAR":2,"SEK":2,"CHF":2,"TWD":2,"THB":2,"INR":2,"TRY":2,"IRR":2,"RUB":2,"AED":2,"AMD":2,"ANG":2,"ARS":2,"AWG":2,"BAM":2,"BDT":2,"BHD":3,"BMD":2,"BND":2,"BOB":2,"BSD":2,"BWP":2,"BZD":2,"CLP":0,"CNY":2,"COP":2,"CRC":2,"CUC":2,"CUP":2,"DOP":2,"EGP":2,"GIP":2,"GTQ":2,"HNL":2,"HRK":2,"IDR":2,"ISK":0,"JMD":2,"JOD":2,"KES":2,"KWD":2,"KYD":2,"MKD":2,"NPR":2,"OMR":3,"PEN":2,"PKR":2,"RON":2,"SAR":2,"SZL":2,"TOP":2,"TZS":2,"UAH":2,"UYU":2,"VEF":2,"XCD":2,"AFN":2,"ALL":2,"AOA":2,"AZN":2,"BBD":2,"BGN":2,"BIF":0,"XBT":8,"BTN":1,"BYR":2,"BYN":2,"CDF":2,"CVE":2,"DJF":0,"DZD":2,"ERN":2,"ETB":2,"FJD":2,"FKP":2,"GEL":2,"GGP":2,"GHS":2,"GMD":2,"GNF":0,"GYD":2,"HTG":2,"IMP":2,"IQD":2,"IRT":2,"JEP":2,"KGS":2,"KHR":0,"KMF":2,"KPW":0,"KZT":2,"LAK":0,"LBP":2,"LKR":0,"LRD":2,"LSL":2,"LYD":3,"MDL":2,"MGA":0,"MMK":2,"MNT":2,"MOP":2,"MRO":2,"MUR":2,"MVR":1,"MWK":2,"MZN":0,"NAD":2,"NGN":2,"NIO":2,"PAB":2,"PGK":2,"PRB":2,"PYG":2,"QAR":2,"RSD":2,"RWF":2,"SBD":2,"SCR":2,"SDG":2,"SHP":2,"SLL":2,"SOS":2,"SRD":2,"SSP":2,"STD":2,"SYP":2,"TJS":2,"TMT":2,"TND":3,"TTD":2,"UGX":2,"UZS":2,"VND":1,"VUV":0,"WST":2,"XAF":2,"XOF":2,"XPF":2,"YER":2,"ZMW":2},"recurringLabelLookup":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/plugins/give/assets/dist/js/give-donation-summary.js?ver=3.6.1" id="give-donation-summary-script-frontend-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/themes/wild-ride/assets/js/jquery.ui.totop.min.js?ver=1.0.0" id="jquery-totop-js"></script>
+<script type="text/javascript" id="wild_ride-theme-script-js-extra">
+/* <![CDATA[ */
+var wild_ride = {"ajaxurl":"https:\/\/web.archive.org\/web\/20240404222356\/https:\/\/www.dibra.org\/wp-admin\/admin-ajax.php","labels":{"totop_button":"Top"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/themes/wild-ride/assets/js/theme-script.js?ver=1.0.0" id="wild_ride-theme-script-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/themes/wild-ride/cherry-framework/modules/cherry-post-formats-api/assets/js/min/cherry-post-formats.min.js?ver=1.0.0" id="cherry-post-formats-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://www.dibra.org/wp-content/plugins/easy-twitter-feed-widget/js/twitter-widgets.js?ver=1.0" id="do-etfw-twitter-widgets-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240404222356js_/https://stats.wp.com/e-202414.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"109822851\",\"post\":\"0\",\"tz\":\"0\",\"srv\":\"www.dibra.org\",\"j\":\"1:13.3\"}") ]);
+_stq.push([ "clickTrackerInit", "109822851", "0" ]);
+/* ]]> */
+</script>
+
+</body>
+</html>
+<!--
